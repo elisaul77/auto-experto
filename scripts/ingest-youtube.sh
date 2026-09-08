@@ -33,7 +33,10 @@ fi
 export PATH="$BIN:$PATH"
 
 YD=("$BIN/yt-dlp" --js-runtimes deno --cookies-from-browser firefox --no-warnings)
-ID=$("$BIN/yt-dlp" --get-id "$URL" 2>/dev/null || echo "video")
+# El id se saca de la URL: pedirlo a yt-dlp gasta una llamada y falla si
+# el extractor está bloqueado, dejando todo con nombre "video".
+ID=$(printf %s "$URL" | grep -oE '[?&]v=[A-Za-z0-9_-]{11}' | cut -c4- || true)
+[ -n "$ID" ] || ID=$(printf %s "$URL" | grep -oE '[A-Za-z0-9_-]{11}$' || echo video)
 
 # --- 1) intento rápido: subtítulos ------------------------------------------
 # Preferir SIEMPRE es-orig: es el reconocimiento del audio original.
@@ -43,6 +46,14 @@ TMP=$(mktemp -d); trap 'rm -rf "$TMP"' EXIT
 if "${YD[@]}" --write-auto-sub --write-sub --sub-langs "es.*,en.*" \
      --skip-download -o "$TMP/v.%(ext)s" "$URL" >/dev/null 2>&1; then
   VTT=$(ls "$TMP"/v.es-orig.vtt "$TMP"/v.es.vtt "$TMP"/v.en.vtt 2>/dev/null | head -1 || true)
+  PISTA=$(basename "${VTT:-none}" .vtt | sed 's/^v\.//')
+  case "$PISTA" in
+    es-orig) echo "· pista es-orig (audio original) — calidad buena" ;;
+    none)    : ;;
+    *) echo "· ATENCIÓN: pista '$PISTA' es TRADUCCIÓN AUTOMÁTICA."
+       echo "  Los datos numéricos y los nombres de modelo llegan corrompidos."
+       echo "  Verificar toda cifra antes de fichar." ;;
+  esac
 fi
 
 # --- 2) plan B: audio + STT local -------------------------------------------
@@ -61,9 +72,9 @@ fi
 # --- 3) limpiar el VTT ------------------------------------------------------
 # Los subtítulos automáticos vienen EN CASCADA: cada bloque repite el anterior
 # y añade una palabra (efecto karaoke). Sin deduplicar, el texto es ilegible.
-python3 - "$VTT" "$OUT/$ID.transcripcion.md" "$URL" <<'PY'
+python3 - "$VTT" "$OUT/$ID.transcripcion.md" "$URL" "${PISTA:-?}" <<'PY'
 import re, sys, html
-src, dst, url = sys.argv[1], sys.argv[2], sys.argv[3]
+src, dst, url, pista = sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4]
 blocks, t = [], None
 for line in open(src, encoding='utf-8'):
     line = line.rstrip('\n')
@@ -93,7 +104,7 @@ for t, txt in out:
 if cur: paras.append((start, ' '.join(cur)))
 
 with open(dst, 'w', encoding='utf-8') as f:
-    f.write(f'# Transcripción de trabajo\n\n{url}\n\n')
+    f.write(f'# Transcripción de trabajo\n\n{url}\n\nPista de subtítulos: **{pista}**\n\n')
     f.write('> Material de trabajo, NO se versiona en el repo.\n\n')
     for s, p in paras:
         f.write(f'**[{s//60:02d}:{s%60:02d}]** {p}\n\n')

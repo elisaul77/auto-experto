@@ -43,3 +43,39 @@ tiene. **Las transcripciones no se guardan en el repo** — ver
 - **Interés especial:** es la primera fuente que puede **contradecir** a [V1].
   Un "no deberías comprar" contra una lista de recomendados es justo el caso
   para el que existe el marcador ⚠️.
+
+## [V3] — gama BMW actual (nomenclatura)
+
+- **URL:** https://www.youtube.com/watch?v=IKsBfiqv7fY · **Duración:** ~6:10
+- **Ingerido:** 2026-09-08
+- **Tipo:** guía de gama → peso **bajo-medio**. No es fuente técnica, pero la
+  estructura de la gama es dato objetivo y comprobable contra el catálogo.
+- **Pista de subtítulos:** inglés con errores de reconocimiento. **No había
+  pista `es-orig`.** Todo dato numérico se contrastó antes de fichar.
+- **Extraído:** decodificador de la nomenclatura (impar = gama principal, par =
+  derivado coupé del impar inferior, `M` delante = M Performance vs `M` solo =
+  modelo M), el mapa tracción delantera/trasera por modelo, la gama completa
+  del 1 al 8 y el descatalogado del Serie 6 GT en 2023.
+- **Aporta un eje nuevo:** primera fuente sobre **coche nuevo**. [V1] era usado.
+
+### Errores detectados en la transcripción (corregidos al fichar)
+
+| En la transcripción | Real |
+|---|---|
+| "330 injection" | 330i |
+| "M135 and XDrive" / "M235 EX Drive" | M135 xDrive / M235 xDrive |
+| "M5 Turing" | M5 Touring |
+| "Together they produce 72 horsepower" | ~727 CV (cifra truncada) |
+| "453 CV y 5 CV en su versión CS" | cifra de la CS perdida |
+| "4 cil. turbo de 258 CV **en el 440i**" | es el **430i**; el 440i es el seis |
+| Serie 4: "tres puertas" | dos puertas |
+
+**Lección de método:** una pista de subtítulos traducida o mal reconocida
+corrompe justo lo que más importa —cifras y nombres de modelo— dejando el texto
+con aspecto perfectamente legible. Por eso el script ahora avisa cuando la pista
+no es `es-orig` y ninguna cifra de una fuente así entra sin contrastar.
+
+### Sin contradicciones con [V1]
+
+[V1] habla de usado y generaciones F/E; [V3] de nuevo y generaciones G. No se
+solapan. La primera contradicción real sigue pendiente con [V2].

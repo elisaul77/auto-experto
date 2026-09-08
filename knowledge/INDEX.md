@@ -12,6 +12,12 @@ Leer este archivo **antes** que cualquier ficha. Entrar siempre por el motor.
 
 ## BMW
 
+**Antes de nada, si la consulta es de coche nuevo o de "qué significa este
+número":** [Gama y nomenclatura](bmw/_gama-y-nomenclatura.md). Explica qué es
+cada serie del 1 al 8, la diferencia entre `M340i` y `M3`, y qué modelos llevan
+tracción delantera (Serie 1 y Serie 2 Gran Coupé — la confusión más cara).
+
+
 | Modelo | Gen. | Años | Motor | Veredicto | Ficha |
 |---|---|---|---|---|---|
 | 328i | E90 | 2007-2011 | N52 | 🟢 | [ficha](bmw/e90-328i.md) |
@@ -43,6 +49,7 @@ Leer este archivo **antes** que cualquier ficha. Entrar siempre por el motor.
 
 ## Pendientes
 
+- S58, S63, S68 (los M actuales) — referenciados desde _gama-y-nomenclatura.md
 - S55 (M2 Competition, M3/M4 F80/F82) — referenciado desde f87-m2.md
 - S85 (E60 M5 V10) — mencionado en [V1], sin ficha
 - Otras marcas: ninguna todavía. **La base está sesgada a BMW**; decirlo
