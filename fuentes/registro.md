@@ -79,3 +79,39 @@ no es `es-orig` y ninguna cifra de una fuente así entra sin contrastar.
 
 [V1] habla de usado y generaciones F/E; [V3] de nuevo y generaciones G. No se
 solapan. La primera contradicción real sigue pendiente con [V2].
+
+## [V4] — directo de preguntas y respuestas (canal de habla hispana, ~may-2024)
+
+- **URL:** https://www.youtube.com/watch?v=wH075CX_ug4 · **Duración:** ~8 min
+- **Ingerido:** 2026-09-08
+- **Tipo:** opinión en directo → peso **bajo** en datos, **alto en criterio**.
+  No aporta cifras verificables; aporta heurísticas de compra.
+- **Pista:** inglés traducido automáticamente. **Muy corrupta** (ver abajo).
+- **Moneda:** "pesos". Por el sorteo y el registro parece canal mexicano, pero
+  **sin verificar** 🔵. Importa: 150.000 MXN y 150.000 COP no son comparables.
+- **Aporta:** primera fuente **no centrada en BMW** y primera con principios
+  transversales de compra en usado → `references/principios-compra-usado.md`.
+- **Confirma** ✅ que el estado del ejemplar puede pesar más que la estadística
+  del modelo. Segundo apoyo independiente frente a [V1]: sube de 🟡 a ✅.
+
+### ⚠️ Contradice a [V1]
+
+[V1] recomienda BMW usados baratos; [V4] sostiene que ningún alemán viejo
+compensa como coche diario, en el mismo rango de precio. Registrada sin
+resolver en `references/principios-compra-usado.md`: depende de la situación
+del comprador, dato que ninguna de las dos fuentes considera.
+
+### Errores de reconocimiento (reconstruidos, marcados 🔵 en las fichas)
+
+| En la transcripción | Reconstrucción |
+|---|---|
+| "JTM K616 2.5" | Jetta MK6 2.5 |
+| "GMI engine" / "Pentas" | Hemi / Pentastar |
+| "Rap 4x4", "B6 3.5" | RAV4 4x4, V6 3.5 |
+| "Power Boot" | PowerBoost |
+| "motor de 2 cilindros" (×2) | 4 cilindros |
+| "swing time" / "switch spot" | sweet spot |
+| "Polo GLI" | ambiguo: Jetta GLI o Polo GTI — **no fichado** |
+
+La densidad de errores aquí es mayor que en [V3]: es audio de directo,
+coloquial y con música. **Ninguna cifra de esta fuente se fichó como dato.**

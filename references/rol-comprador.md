@@ -1,5 +1,16 @@
 # Guion: el usuario quiere comprar
 
+## Antes de nada
+
+Leer [principios-compra-usado](principios-compra-usado.md). Hay una
+contradicción abierta ⚠️ entre fuentes sobre si conviene comprar un premium
+alemán usado y barato, y **se resuelve preguntando por la situación del
+comprador**, no consultando fichas.
+
+La pregunta que más decide: **¿es tu único coche y lo necesitas para trabajar?**
+Si la respuesta es sí, un alemán fuera de garantía es mala idea por bueno que
+sea el motor.
+
 ## Qué quiere de verdad
 
 Una decisión, no una clase de mecánica. Que le digas **sí o no y por qué**,
@@ -32,4 +43,8 @@ y qué mirar para no equivocarse.
 | El consejo | comparar coste total, no cuota | a partir de cierta edad, el ejemplar pesa más que el modelo |
 
 En usado con más de 10 años, **deja de recomendar modelos y empieza a evaluar
-unidades**: dos E46 del mismo año pueden diferir en 5.000 USD de averías.
+unidades**: dos E46 del mismo año pueden diferir en 5.000 USD de averías. ✅
+Confirmado por dos fuentes independientes ([V1], [V4]).
+
+Y pregunta siempre por la **transmisión**: el mismo motor en manual y en
+automática puede ser una compra buena y una mala.

@@ -2,6 +2,13 @@
 
 Leer este archivo **antes** que cualquier ficha. Entrar siempre por el motor.
 
+## Antes de las fichas
+
+Si la consulta es **comprar usado**, leer primero
+[principios-compra-usado](../references/principios-compra-usado.md). Contiene
+una contradicción abierta ⚠️ entre fuentes que **no se resuelve con fichas**,
+sino preguntando por la situación del comprador.
+
 ## Regla de entrada
 
 1. Identificar **marca + generación + año**.
@@ -47,10 +54,22 @@ tracción delantera (Serie 1 y Serie 2 Gran Coupé — la confusión más cara).
 | B48 | 4L turbo | 🟢 | [ficha](motores/bmw-b48.md) |
 | B58 | 6L turbo | 🟢 **mejor apuesta** | [ficha](motores/bmw-b58.md) |
 
+## Otras marcas
+
+Fuente única y de tipo opinión: todo 🟡, ninguna ficha con datos duros todavía.
+
+| Marca | Contenido | Ficha |
+|---|---|---|
+| Volkswagen | Automáticas DSG/Tiptronic 🔴 · Jetta MK6 2.5 (🟢 manual / 🔴 auto) · Passat 🔴 | [notas](vw/_notas.md) |
+| Toyota | RAV4 2007 V6 3.5 🟢 | [notas](toyota/_notas.md) |
+| Jeep | Grand Cherokee 2015-2016: Hemi vs Pentastar | [notas](jeep/_notas.md) |
+| Ford | Híbridos PowerBoost/Maverick 🟡 · Mustang GT 2016 = siempre Coyote | [notas](ford/_notas.md) |
+| — | [Lista segura mainstream](mainstream/_lista-segura.md): Corolla, Camry, Prius, Civic, Accord, Elantra | |
+
 ## Pendientes
 
 - S58, S63, S68 (los M actuales) — referenciados desde _gama-y-nomenclatura.md
 - S55 (M2 Competition, M3/M4 F80/F82) — referenciado desde f87-m2.md
 - S85 (E60 M5 V10) — mencionado en [V1], sin ficha
-- Otras marcas: ninguna todavía. **La base está sesgada a BMW**; decirlo
-  cuando alguien pregunte por otra marca en vez de improvisar.
+- **La base sigue sesgada a BMW**: es la única marca con fichas de motor y
+  datos de coste. Las demás son notas de una sola fuente. Decirlo.
