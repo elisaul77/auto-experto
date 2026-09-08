@@ -37,6 +37,11 @@ tracción delantera (Serie 1 y Serie 2 Gran Coupé — la confusión más cara).
 | M240i | F22 | 2017-2021 | B58 | 🟢 | [ficha](bmw/f22-m240i.md) |
 | M2 | F87 | 2016-2018 | N55 | 🟢 | [ficha](bmw/f87-m2.md) |
 | X5 40i | G05 | 2019-2022 | B58 | 🟢 | [ficha](bmw/g05-x5-40i.md) |
+| Serie 5 | E60 | 2003-2010 | varios | 🔴 | [ficha](bmw/e60-serie5.md) |
+| M5 | E60 | 2005-2010 | **S85** V10 | 🔴 | [ficha](bmw/e60-m5.md) |
+| M3 | E92 | 2007-2013 | **S65** V8 | 🔴 coste | [ficha](bmw/e92-m3.md) |
+| X5 | E53 | 2000-2006 | varios | 🔴 | [ficha](bmw/e53-x5.md) |
+| X5 35d | E70 | 2007-2013 | diésel | 🔴 | [ficha](bmw/e70-x5-35d.md) |
 | 328i | F30 | 2012-2016 | **N20** | 🔴 cadena | — |
 | 335i | E90/E92 | 2007-2013 | **N54** | 🔴 | — |
 | 550i / X5 50i | F10 / F15 | 2010+ | **N63** | 🔴 V8 | — |
@@ -47,10 +52,12 @@ tracción delantera (Serie 1 y Serie 2 Gran Coupé — la confusión más cara).
 |---|---|---|---|
 | M54 | 6L atmosférico | 🟢 (refrigeración) | [ficha](motores/bmw-m54.md) |
 | N52 | 6L atmosférico | 🟢 | [ficha](motores/bmw-n52.md) |
-| N54 | 6L biturbo | 🔴 | [ficha](motores/bmw-n54.md) |
+| N54 | 6L biturbo | 🔴 ✅ | [ficha](motores/bmw-n54.md) |
 | N55 | 6L turbo | 🟢 | [ficha](motores/bmw-n55.md) |
 | N20 | 4L turbo | 🔴 | [ficha](motores/bmw-n20.md) |
 | N63 | V8 biturbo | 🔴 | [ficha](motores/bmw-n63.md) |
+| S65 | V8 atmosférico (M3 E92) | 🔴 bielas | [ficha](motores/bmw-s65.md) |
+| S85 | V10 atmosférico (M5 E60) | 🔴 bielas | [ficha](motores/bmw-s85.md) |
 | B48 | 4L turbo | 🟢 | [ficha](motores/bmw-b48.md) |
 | B58 | 6L turbo | 🟢 **mejor apuesta** | [ficha](motores/bmw-b58.md) |
 

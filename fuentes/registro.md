@@ -115,3 +115,47 @@ del comprador, dato que ninguna de las dos fuentes considera.
 
 La densidad de errores aquí es mayor que en [V3]: es audio de directo,
 coloquial y con música. **Ninguna cifra de esta fuente se fichó como dato.**
+
+## [V5] — "problemas de los BMW" (mismo canal que [V4])
+
+- **URL:** https://www.youtube.com/watch?v=dSROdAr4EtQ · **Duración:** ~14 min
+- **Ingerido:** 2026-09-08
+- **Tipo:** divulgación con criterio de taller → peso **medio**. Más concreto
+  que [V4]: nombra fallos, no solo opiniones.
+- **⚠️ NO ES FUENTE INDEPENDIENTE DE [V4].** Mismo canal (repite su lema "el
+  carro viejo de rico te deja pobre" y menciona a los mismos colaboradores).
+  **Dos vídeos del mismo canal no confirman nada entre sí**; sus coincidencias
+  no suben ningún dato de 🟡 a ✅.
+- **Pista:** inglés traducido, muy corrupta en códigos de chasis.
+- **Aporta:** cinco fichas nuevas (E60, M5 E60, M3 E92, X5 E53, X5 35d E70), dos
+  motores (S85, S65), y dos principios de compra (señal de precio bajo, espiral
+  de mantenimiento diferido).
+- **Confirma independientemente a [V1]** en el N54 🔴 → sube a ✅. Canal distinto,
+  llegan al mismo sitio: esta sí es confirmación válida.
+
+### Reconstrucción de códigos (ASR)
+
+| Transcripción | Real |
+|---|---|
+| "S60" / "ES60" | **E60** (Serie 5, 2003-2010) |
+| "M560" | **M5 E60** |
+| "motor B10" | **V10** (S85) |
+| "'92 M3" / "N92 M3" | **E92 M3** |
+| "X5-53" | **X5 E53** |
+| "Valtronic" | Valvetronic |
+| "coi lover" | coilover |
+| "Rain Rovers" | Range Rovers |
+| "los mediocres no quieren que sepas" | los **mecánicos** |
+
+### ⚠️ Dos afirmaciones de la fuente que no se sostienen
+
+1. **"El E60 se ensamblaba en China"** y de ahí sus fallos. Incorrecto tal como
+   se dice: se fabricaba en Dingolfing. Hubo ensamblaje en China por BMW
+   Brilliance, pero de versiones de batalla larga para el mercado chino.
+2. **"El X5 E53 comparte plataforma con el Land Rover L322"**. Impreciso: el E53
+   deriva del Serie 5 E39. El parentesco real es que BMW era dueña de Land Rover
+   cuando se desarrolló el L322, que llevaba motores y electrónica BMW.
+
+En los dos casos **la conclusión es defendible y el mecanismo es falso**. Quedan
+registradas en las fichas para que no se repitan. Es el patrón de riesgo de este
+tipo de fuente: explicaciones causales inventadas sobre fallos que sí son reales.

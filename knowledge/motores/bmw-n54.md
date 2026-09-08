@@ -6,13 +6,20 @@
 | **Config** | 6 en línea, 3.0 L |
 | **Aspiración** | Biturbo |
 | **Montado en** | E90/E92 335i, E60 535i, E82 135i, Z4 sDrive35i |
-| **Veredicto** | 🔴 Evitar de origen · 🟡 tolerable si el proyecto es tunearlo |
+| **Veredicto** | 🔴 **Evitar** — ✅ confirmado por dos fuentes independientes · 🟡 tolerable solo como proyecto de preparación |
 
 ## Por qué ese veredicto
 
 Enorme potencial (aguanta mucha potencia con poco trabajo interno) y una lista
 de averías igual de enorme. Es el "hermano mayor problemático" al que el vídeo
 [V1] contrapone el 328i atmosférico 🟡.
+
+[V5] llega al mismo veredicto por su cuenta y añade que el problema hoy es
+**acumulativo**: son motores ya viejos y desgastados, así que a los fallos de
+diseño se les suma la edad 🟡. Su lista coincide con la de [V1] y agrega fugas
+de refrigerante y de aceite, y fugas por la tapa de válvulas.
+
+Iba en cualquier modelo acabado en **35**: 135i, 335i, 535i [V5] ✅.
 
 ## Fallos conocidos
 
@@ -30,3 +37,4 @@ Como coche de uso diario para alguien que paga mano de obra, no.
 
 ## Fuentes
 - `[V1]` GARAJE SUV NERD (2026-08-22)
+- `[V5]` canal distinto — confirmación independiente

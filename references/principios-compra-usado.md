@@ -31,6 +31,25 @@ depreció pero todavía no entra en averías caras. Su ejemplo son modelos de ~2
 Regla práctica de este repo 🔵: por debajo de esa ventana se paga depreciación;
 por encima, se pagan averías. El punto exacto depende del modelo y del mercado.
 
+## 3-bis. Un precio muy por debajo del mercado es una señal, no una ganga
+
+Si un modelo se vende bastante más barato que sus rivales de los mismos años,
+casi siempre es **alguien quitándose un problema de encima** [V5] 🟡. El
+mercado ya sabe algo que el comprador todavía no.
+
+Aplica igual dentro de un mismo modelo: el ejemplar más barato del anuncio suele
+serlo por una razón que no está en la foto.
+
+## 3-ter. La espiral del mantenimiento diferido
+
+En un premium que ya perdió valor, el servicio sigue costando precio de premium.
+El dueño pospone, el coche se degrada, y acaba vendiéndose barato con el
+problema dentro [V5] 🟡.
+
+**Por eso los usados premium baratos están, de media, peor mantenidos que los
+mainstream baratos.** No es el modelo: es a quién le tocó pagar su
+mantenimiento y qué decidió. Refuerza el principio 4.
+
 ## 4. El ejemplar concreto pesa más que las estadísticas del modelo ✅
 
 Un coche muy bien mantenido de un modelo con estadísticas mediocres puede ser
@@ -62,6 +81,10 @@ saberlo 🟡. Novedad y fiabilidad probada son cosas distintas.
 | Tesis | Hay BMW usados baratos que sí compensa comprar | Ningún alemán viejo compensa como coche diario |
 | Ejemplo | E90 328i por 6.000-10.000 USD 🟢 | Alemán por ~150.000 pesos → 🔴 |
 | Alternativa | otro BMW con mejor motor | salirse de la marca: Corolla, Civic, Camry, Elantra, Accord, Prius |
+
+[V5] refuerza la postura de [V4] con un argumento propio y más fino —la espiral
+de mantenimiento diferido— pero **es del mismo canal que [V4]**, así que
+**no cuenta como confirmación independiente**. El marcador sigue en 🟡.
 
 **Están hablando del mismo rango de precio.** Si los pesos son mexicanos —
 probable pero **sin verificar** 🔵 — 150.000 MXN cae aproximadamente en la
