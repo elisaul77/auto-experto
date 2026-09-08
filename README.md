@@ -80,12 +80,33 @@ Las transcripciones de trabajo se generan fuera del repo y están en `.gitignore
 
 ## Estado
 
-Primera fuente ingerida. La base **está sesgada a BMW** — es lo honesto decirlo
-en vez de improvisar sobre otras marcas.
+Cuatro fuentes ingeridas. La base **sigue muy sesgada a BMW**: es la única marca
+con fichas de motor y datos de coste. Lo demás son notas de una sola fuente, y
+está dicho así en cada archivo.
 
-- 8 motores BMW fichados (M54, N52, N54, N55, N20, N63, B48, B58)
-- 10 modelos BMW
-- Pendiente: S55, S85, otras marcas, datos reales del mercado colombiano
+- **10 motores** BMW (M54, N52, N54, N55, N20, N63, B48, B58, S65, S85)
+- **15 modelos** BMW, en verde y en rojo
+- Gama actual y decodificador de la nomenclatura (eje *coche nuevo*)
+- Principios transversales de compra en usado
+- Notas sueltas de VW, Toyota, Jeep y Ford
+
+### Lo que ya sabe hacer que no es obvio
+
+- **Sostener una contradicción sin resolverla.** Una fuente recomienda comprar
+  BMW usados baratos y otra dice que ningún alemán viejo compensa como coche
+  diario, en el mismo rango de precio. Las dos son defendibles: depende de si es
+  el único coche del comprador. La skill pregunta eso antes de recomendar.
+- **Distinguir fuentes independientes de fuentes que solo se repiten.** Dos
+  vídeos del mismo canal no confirman nada entre sí, y está anotado.
+- **Rechazar lo que una fuente afirma mal.** Hay dos casos registrados en los
+  que la conclusión es defendible pero la explicación causal es inventada; se
+  guardan marcados como falsos para que no se repitan.
+
+### Pendiente
+
+- Fichas S55, S58, S63, S68
+- Datos duros de las marcas no alemanas
+- Precios reales del mercado colombiano — `contexto-colombia.md` es un esqueleto
 
 ## Instalación
 
