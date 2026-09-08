@@ -1,0 +1,5 @@
+# Las transcripciones de fuentes ajenas no se versionan.
+# Ver references/como-ingerir.md
+*.transcripcion.md
+*.transcripcion.txt
+*.vtt
