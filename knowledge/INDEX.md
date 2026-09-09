@@ -2,6 +2,12 @@
 
 Leer este archivo **antes** que cualquier ficha. Entrar siempre por el motor.
 
+## Si la pregunta es de mantenimiento
+
+Aceite, viscosidad, filtros, aditivos, un testigo encendido: no entres por las
+fichas de vehículo. Ve a
+[aceite y lubricación](../references/aceite-y-lubricacion.md).
+
 ## Antes de las fichas
 
 Si la consulta es **comprar** —nuevo o usado— y aparece la palabra precio,
@@ -85,6 +91,8 @@ Fuente única y de tipo opinión: todo 🟡, ninguna ficha con datos duros todav
 | Mercedes | EQS: la mayor caída de valor registrada en el repo | [notas](mercedes/_notas.md) |
 | RAM | 1500 Classic: depreciación de flota **sin** problema mecánico 🟢 | [notas](ram/_notas.md) |
 | — | [Lista segura mainstream](mainstream/_lista-segura.md): Corolla, Camry, Prius, Civic, Accord, Elantra | |
+| Dodge / RAM | Durango 2017+: electrónica, colector V8, MDS · PCV del Pentastar | [notas](dodge/_notas.md) |
+| Marcas chinas | Depreciación brutal por desconfianza, no por defecto probado | [notas](chinos/_notas.md) |
 | — | [Depreciación: lista EE. UU. 2026](depreciacion/lista-2026-eeuu.md) | |
 
 ## Pendientes

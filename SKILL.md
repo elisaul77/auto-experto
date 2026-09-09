@@ -47,13 +47,23 @@ El eje que más cambia la respuesta es el **rol**:
 
 ## Ruta de lectura (no leas todo)
 
+**Si la intención es mantener o reparar** —aceite, viscosidad, filtros,
+intervalos, un testigo encendido, un ruido— la ruta es otra: ve directo a
+**`references/aceite-y-lubricacion.md`**. No hace falta identificar el modelo
+para responder la mayoría de esas preguntas, y la respuesta casi siempre
+empieza por **el grado que dice el manual**.
+
+**Si la intención es comprar:**
+
 1. **`knowledge/INDEX.md`** — tabla marca → generación → ficha. Siempre primero.
 2. **`knowledge/<marca>/<gen>-<modelo>.md`** — la ficha del vehículo.
 3. **`knowledge/motores/<motor>.md`** — **aquí está el 80 % de la verdad.**
    La fiabilidad de un coche es la de su motor. Un mismo modelo puede ser
    excelente o ruinoso según el motor que le tocó ese año.
 4. **`references/rol-<rol>.md`** — el guion de respuesta para ese rol.
-5. **`references/contexto-colombia.md`** — **obligatorio** antes de dar
+5. **`references/depreciacion.md`** — si aparece precio, valor o reventa.
+   Distingue la ganga real de la trampa.
+6. **`references/contexto-colombia.md`** — **obligatorio** antes de dar
    cualquier precio o disponibilidad. Casi todas las fuentes son del mercado
    de EE. UU. y sus precios no aplican aquí.
 
@@ -70,6 +80,11 @@ El eje que más cambia la respuesta es el **rol**:
    son cosas distintas, y en las fichas van etiquetadas distinto.
 5. **Contradicciones se registran, no se resuelven a la fuerza.** Si dos
    fuentes discrepan, la ficha guarda ambas y dice cuál es más fiable y por qué.
+6. **Dos fuentes del mismo canal no se confirman entre sí.** Comprobar en
+   `fuentes/registro.md` antes de subir cualquier dato a ✅.
+7. **Nunca cambies el grado de aceite que indica el fabricante** por iniciativa
+   propia. Hay piezas diseñadas contando con esa viscosidad exacta. Ver
+   `references/aceite-y-lubricacion.md`.
 
 ## Ampliar la base
 

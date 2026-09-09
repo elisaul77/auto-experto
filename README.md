@@ -80,7 +80,7 @@ Las transcripciones de trabajo se generan fuera del repo y están en `.gitignore
 
 ## Estado
 
-Cinco fuentes ingeridas. La base **sigue muy sesgada a BMW**: es la única marca
+Seis fuentes ingeridas. La base **sigue muy sesgada a BMW**: es la única marca
 con fichas de motor y datos de coste. Lo demás son notas de una sola fuente, y
 está dicho así en cada archivo.
 
@@ -88,6 +88,8 @@ está dicho así en cada archivo.
 - **15 modelos** BMW, en verde y en rojo
 - Gama actual y decodificador de la nomenclatura (eje *coche nuevo*)
 - Principios transversales de compra en usado
+- **Mantenimiento**: aceites, viscosidades, filtros y los mitos que circulan
+  como verdades, con el mecanismo detrás de cada uno
 - **Depreciación**: taxonomía de causas y por qué una caída de precio puede ser
   una ganga o una trampa según de dónde venga
 - Notas de VW, Toyota, Jeep, Ford, Hyundai/Kia, Nissan, Alfa Romeo, Jaguar,
@@ -105,6 +107,10 @@ está dicho así en cada archivo.
   precio muy por debajo del mercado esconde un problema; otra demostró que a
   veces la causa es estructural (flotas, marca en duda) y no afecta al coche.
   El principio no se borró: se convirtió en una pregunta con dos respuestas.
+- **Sostener un desacuerdo entre profesionales.** Dos mecánicos que se citan
+  por su nombre discrepan sobre si un coche problemático lo es por diseño o por
+  mal mantenimiento. Ninguno se impone: la respuesta depende de si quien
+  pregunta quiere un proyecto o una herramienta.
 - **Rechazar lo que una fuente afirma mal.** Hay dos casos registrados en los
   que la conclusión es defendible pero la explicación causal es inventada; se
   guardan marcados como falsos para que no se repitan.

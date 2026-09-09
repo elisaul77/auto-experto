@@ -31,6 +31,24 @@ depreció pero todavía no entra en averías caras. Su ejemplo son modelos de ~2
 Regla práctica de este repo 🔵: por debajo de esa ventana se paga depreciación;
 por encima, se pagan averías. El punto exacto depende del modelo y del mercado.
 
+### [V7] le pone número, y el número se está moviendo
+
+**Unos 8 años**, y antes eran 6 🟡. Su explicación: los coches han mejorado de
+verdad —son más fiables en conjunto— aunque a la vez sean **más caros de
+mantener y de reparar**. Las dos cosas a la vez.
+
+Su reloj para un coche nuevo 🟡:
+
+| Edad | Qué esperar |
+|---|---|
+| 0-4 años | Prácticamente cero problemas |
+| 3-6 años | Empiezan a aparecer los primeros |
+| **+6 años** | **Aquí se distingue el bueno del tóxico** |
+
+Es útil para el rol comprador: **antes de los 6 años, las estadísticas de
+fiabilidad de un modelo todavía no dicen gran cosa**, porque ningún ejemplar ha
+llegado a la edad en la que se rompe lo que se rompe.
+
 ## 3-bis. Un precio muy por debajo del mercado es una señal, no una ganga
 
 Si un modelo se vende bastante más barato que sus rivales de los mismos años,
@@ -69,6 +87,17 @@ problema dentro [V5] 🟡.
 **Por eso los usados premium baratos están, de media, peor mantenidos que los
 mainstream baratos.** No es el modelo: es a quién le tocó pagar su
 mantenimiento y qué decidió. Refuerza el principio 4.
+
+## 3-quater. Investigar antes, no después
+
+De [V7], y vale por todo el capítulo 🟡:
+
+> Cuando lo haces antes se llama investigación. Cuando lo haces después se
+> llama arrepentimiento.
+
+Si alguien llega preguntando por un coche **que ya compró**, cambia el rol: ya
+no es comprador, es propietario. Deja de evaluar la decisión y pasa a qué
+vigilar y qué presupuestar. Ver [rol-propietario](rol-propietario.md).
 
 ## 4. El ejemplar concreto pesa más que las estadísticas del modelo ✅
 
@@ -120,3 +149,23 @@ que ninguna fuente dice: **quién es el comprador**.
 
 Al responder, **preguntar por esto antes de recomendar**. Es la variable que
 decide, y no está en ninguna ficha técnica.
+
+## Segunda contradicción abierta ⚠️: ¿de quién es la culpa?
+
+Las dos fuentes se conocen y discuten entre sí — [V5] cita a [V7] por su nombre
+para llevarle la contraria. Es un desacuerdo real entre profesionales, no un
+error de nadie:
+
+| [V7] — el mantenimiento manda | [V5] — evitar el problema manda |
+|---|---|
+| No hay coches malos, hay coches mal mantenidos | Da igual de quién sea la culpa |
+| Con ganas suficientes, ningún coche es tóxico: se cambia lo que haya que cambiar | Si un modelo es famoso por estar mal mantenido, **no lo quiero** |
+| El problema empieza cuando ya no quieres al coche | Lo que quiero es no tener el problema |
+
+**Las dos tienen razón desde sitios distintos**, y de nuevo depende del
+comprador. [V7] habla desde un taller propio y con ganas de trastear; [V5]
+desde el punto de vista de quien solo quiere un coche que funcione.
+
+Cómo usarlo al responder: si detectas afición y ganas de meter mano, [V7]
+aplica. Si detectas que el coche es una herramienta, [V5] aplica. **Preguntar
+antes de elegir bando.**

@@ -28,9 +28,20 @@ conector de carga, mejora el software [V6] 🟡. Excelente para quien compra
 nuevo; **convierte al de hace dos años en versión de segunda** casi de
 inmediato. Al comprar uno usado, mirar **de qué año exacto** es.
 
+## Motores de gasolina: los V6 no son el problema
+
+[V7] separa las dos familias 🟡:
+
+- **V6 Lambda (3.3 / 3.5)** — decentes.
+- **Cuatro cilindros** — "los verdaderamente infames".
+
+🔵 Por el contexto se refiere casi con seguridad a la familia **Theta**, con
+historial de consumo de aceite y fallos de biela. **Ficha pendiente**: es de lo
+más relevante de la marca y el repo aún no la tiene.
+
 ## Elantra
 
 En la [lista segura](../mainstream/_lista-segura.md) 🟡 [V4].
 
 ## Fuentes
-- `[V4]`, `[V6]`
+- `[V4]`, `[V6]`, `[V7]`

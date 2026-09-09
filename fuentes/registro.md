@@ -211,3 +211,61 @@ porcentaje**. Los absolutos solo se fichan cuando la fuente los repite.
 Las cifras no valen en Colombia: aquí no existió el incentivo fiscal que
 menciona, el parque de eléctricos es otro y los conectores de carga son otros.
 **Lo que viaja es la taxonomía de causas, no los números.**
+
+## [V7] — "Forjados Podcast" / Guillermo Moller (Memo), mecánico con taller
+
+- **URL:** https://www.youtube.com/watch?v=-nrWqFMfoEY · **Duración:** ~70 min
+- **Ingerido:** 2026-09-09
+- **Tipo:** podcast técnico de un mecánico en activo → peso **medio-alto**.
+  La fuente más valiosa hasta ahora: explica **mecanismos**, no conclusiones.
+- **⚠️ Conflicto de interés declarado:** el bloque está **patrocinado por una
+  marca de aceite**, y él mismo dice que investigó la marca para poder
+  trabajar con ella. Los mecanismos son aprovechables; **las recomendaciones
+  de marca concreta, con reserva**. Queda anotado en la ficha.
+- **Canal independiente** de [V1], [V4]/[V5] y [V6].
+- **Aporta el eje de mantenimiento**, que estaba vacío: seis mitos sobre aceite
+  desmontados con su porqué → `references/aceite-y-lubricacion.md`.
+
+### Confirma independientemente
+
+- **Casquillos de biela del [S85](../knowledge/motores/bmw-s85.md)**: da por su
+  cuenta el mismo orden de magnitud que [V5] (rehacer el motor cada ~40.000 km).
+  Canal distinto → el **fallo** sube a ✅.
+- **CVT de Nissan** como punto débil de la marca: coincide con [V6] ✅ en el
+  patrón, aunque **ninguna de las dos aporta cifras**.
+- **X5 E53**: mismo veredicto que [V5], en una respuesta a un oyente que acababa
+  de comprar uno.
+
+### ⚠️ Segunda contradicción abierta: ¿de quién es la culpa?
+
+**[V5] cita a esta fuente por su nombre para llevarle la contraria.** No es un
+malentendido, es un desacuerdo real entre profesionales:
+
+- **[V7]:** no hay coches malos, hay coches mal mantenidos. Con ganas
+  suficientes, ningún coche es imposible.
+- **[V5]:** da igual de quién sea la culpa; si un modelo es famoso por estar mal
+  mantenido, no lo quiere.
+
+Registrada sin resolver en `references/principios-compra-usado.md`. La respuesta
+depende de si quien pregunta quiere un proyecto o una herramienta.
+
+### Actualiza un dato ya fichado
+
+La "ventana de edad" de [V4], que no tenía número, pasa a tener uno: **~8 años,
+y antes eran 6** 🟡, porque los coches son más fiables aunque más caros de
+reparar. Añade además una escala de cuándo empiezan los problemas en un coche
+nuevo.
+
+### ⚠️ Un ejemplo que la fuente cuenta mal
+
+Sobre los V8 de Chevrolet y el cambio de viscosidad, la frase **se contradice a
+sí misma**: señala el paso a un aceite fino como causa y luego dice que la
+solución de la llamada a revisión fue usar ese mismo aceite. No se fichó como
+dato; queda marcado como pendiente de confirmar en el boletín oficial.
+
+### Formato
+
+Los primeros ~19 min son el bloque técnico —de donde sale casi todo lo
+fichado—. El resto es preguntas del chat: útil para datos sueltos de modelos
+(Ford EcoBoost, Fusion Sport, Durango, PCV del Pentastar, 22R, Kicks), pero
+son respuestas rápidas sin diagnóstico, y así están marcadas.

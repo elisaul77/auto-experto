@@ -9,11 +9,17 @@
 
 ## El problema que lo define
 
-**Casquillos de biela.** [V5] sostiene que duran entre 40.000 y 80.000 km y que
+**Casquillos de biela** ✅ — confirmado por dos fuentes independientes.
+[V5] sostiene que duran entre 40.000 y 80.000 km y que
 después hay que rehacer el motor entero, **hagas o no el mantenimiento** 🟡.
 Es un fallo de diseño, no de uso: conducirlo con suavidad no lo evita.
 
-> ⚠️ El intervalo concreto (40-80.000 km) es de una sola fuente y suena
+[V7], mecánico de taller y **canal distinto**, da la misma cifra por su cuenta:
+hay que rehacer el motor **cada 40.000 km** si se quiere que funcione 🟡. Que
+dos fuentes independientes coincidan en el orden de magnitud sube el **fallo**
+a ✅.
+
+> ⚠️ El intervalo concreto (40-80.000 km) sigue siendo discutible y suena
 > agresivo frente a la práctica habitual de cambiarlos preventivamente. El
 > **fallo** está bien documentado; **la cifra, no**. No darla como dato.
 
@@ -34,4 +40,4 @@ de Fórmula 1. Suena excepcional y es de los mejores V10 de calle que existen.
 presupuesto de bielas ya apartado, no como descubrimiento futuro.
 
 ## Fuentes
-- `[V5]`
+- `[V5]`, `[V7]`
