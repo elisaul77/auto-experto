@@ -99,6 +99,21 @@ Si alguien llega preguntando por un coche **que ya compró**, cambia el rol: ya
 no es comprador, es propietario. Deja de evaluar la decisión y pasa a qué
 vigilar y qué presupuestar. Ver [rol-propietario](rol-propietario.md).
 
+## 3-quinquies. Un componente no es bueno o malo en abstracto
+
+La misma pieza puede tener mala fama en un coche y aguantar perfectamente en
+otro, **según cuánto se le exija**. [V8] lo ilustra con la caja automática 6F35:
+problemática en otras aplicaciones y duradera en el Ford Fusion, porque ahí
+no trabaja al límite 🟡.
+
+Su analogía: quejarse de las rodillas pesando 150 kg no es culpa de las
+rodillas.
+
+**Consecuencia al responder:** cuando alguien dice "esa caja es mala" o "ese
+motor es malo", preguntar **en qué coche**. Un componente al límite de su
+capacidad falla; el mismo con margen, no. Es la razón por la que este repo
+ficha motor **y** modelo, y no uno solo de los dos.
+
 ## 4. El ejemplar concreto pesa más que las estadísticas del modelo ✅
 
 Un coche muy bien mantenido de un modelo con estadísticas mediocres puede ser
@@ -149,6 +164,17 @@ que ninguna fuente dice: **quién es el comprador**.
 
 Al responder, **preguntar por esto antes de recomendar**. Es la variable que
 decide, y no está en ninguna ficha técnica.
+
+### Hay una tercera salida que ninguna de las dos plantea
+
+[V8] ofrece una opción que rompe el dilema: **premium japonés**. Un
+[Lexus ES350](../knowledge/lexus/es350-2007-2018.md) da acabados, aislamiento y
+sensación de coche caro **con mecánica Toyota debajo** 🟡 — el confort que busca
+quien mira un alemán, sin el coste de propiedad que lo hunde.
+
+Cuando alguien pregunte por un premium alemán usado y barato, **esta opción
+entra en la respuesta**. Es la síntesis que ninguna de las dos posturas
+originales veía.
 
 ## Segunda contradicción abierta ⚠️: ¿de quién es la culpa?
 

@@ -60,6 +60,19 @@ tracción delantera (Serie 1 y Serie 2 Gran Coupé — la confusión más cara).
 | 335i | E90/E92 | 2007-2013 | **N54** | 🔴 | — |
 | 550i / X5 50i | F10 / F15 | 2010+ | **N63** | 🔴 V8 | — |
 
+### Motores no BMW
+
+| Código | Marca | Tipo | Veredicto | Ficha |
+|---|---|---|---|---|
+| 2GR-FE | Toyota/Lexus | V6 3.5 atmosférico | 🟢 de los mejores V6 | [ficha](motores/toyota-2gr-fe.md) |
+| 2ZR-FE | Toyota | 1.8 atmosférico | 🟢 la referencia | [ficha](motores/toyota-2zr-fe.md) |
+| K20 / K24 | Honda | 2.0 / 2.4 atmosférico | 🟢 | [ficha](motores/honda-k-series.md) |
+| J35 | Honda | V6 3.5 | 🟢 ⚠️ ojo al VCM | [ficha](motores/honda-j35.md) |
+| R18 | Honda | 1.8 | 🟢 ⚠️ grietas de bloque | [ficha](motores/honda-r18.md) |
+| Duratec 2.5 | Ford | 2.5 atmosférico | 🟢 | [ficha](motores/ford-duratec-2.5.md) |
+| Skyactiv-G | Mazda | 2.0 / 2.5 | 🟢 ⚠️ carbonilla | [ficha](motores/mazda-skyactiv-g.md) |
+| **CVT** | Nissan | transmisión | 🔴 ✅ | [ficha](motores/nissan-cvt.md) |
+
 ### Motores BMW
 
 | Código | Tipo | Veredicto | Ficha |
@@ -86,6 +99,7 @@ Fuente única y de tipo opinión: todo 🟡, ninguna ficha con datos duros todav
 | Jeep | Grand Cherokee 2015-2016: Hemi vs Pentastar | [notas](jeep/_notas.md) |
 | Ford | Híbridos PowerBoost/Maverick 🟡 · Mustang GT 2016 = siempre Coyote | [notas](ford/_notas.md) |
 | Hyundai / Kia | Componente de carga E-GMP: fallo sin aviso, demanda colectiva, piezas de reemplazo que repiten el fallo ⚠️ | [notas](hyundai-kia/_notas.md) |
+| **Lista segura** | Los 10 fiables con motor y ficha | [tabla](mainstream/_lista-segura.md) |
 | Nissan | Leaf 🔴 (conector obsoleto + batería sin refrigerar, malo en calor) · Murano y las CVT | [notas](nissan/_notas.md) |
 | Alfa Romeo | Conducen muy bien; el riesgo es la marca y la red de talleres | [notas](alfa-romeo/_notas.md) |
 | Jaguar | F-Pace huérfano: Jaguar cerró la combustión en dic-2025 | [notas](jaguar/_notas.md) |
@@ -101,7 +115,8 @@ Fuente única y de tipo opinión: todo 🟡, ninguna ficha con datos duros todav
 - **BMW diésel**: ninguna fuente. El N47 y su cadena trasera son 🔵 puro.
 - **Serie 1**: no aparece en ninguna fuente; no se vendió apenas en EE. UU.,
   que es de donde viene casi todo el material.
-- **CVT de Nissan** y **cuatro cilindros de Hyundai**: patrón claro, cero cifras.
+- **Cuatro cilindros de Hyundai** (familia Theta): patrón claro, cero cifras.
+- **Precios del mercado colombiano**: el hueco más grande que queda.
 
 ## Pendientes
 

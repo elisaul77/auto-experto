@@ -80,12 +80,13 @@ Las transcripciones de trabajo se generan fuera del repo y están en `.gitignore
 
 ## Estado
 
-Seis fuentes ingeridas. La base **sigue muy sesgada a BMW**: es la única marca
-con fichas de motor y datos de coste. Lo demás son notas de una sola fuente, y
-está dicho así en cada archivo.
+Siete fuentes ingeridas. El sesgo a BMW **ya está roto**: hay fichas de motor de Toyota, Honda, Ford y
+Mazda con el mismo nivel de detalle. Lo que falta ahora no son marcas: son
+**precios del mercado colombiano**, y está dicho así en el índice.
 
-- **10 motores** BMW (M54, N52, N54, N55, N20, N63, B48, B58, S65, S85)
-- **15 modelos** BMW, en verde y en rojo
+- **18 fichas de motor**: 10 de BMW y 8 de Toyota, Honda, Ford, Mazda y la
+  transmisión CVT de Nissan
+- **16 modelos** BMW y **10 mainstream** con motor identificado y su ficha
 - Gama actual y decodificador de la nomenclatura (eje *coche nuevo*)
 - Principios transversales de compra en usado
 - **Mantenimiento**: aceites, viscosidades, filtros y los mitos que circulan
@@ -111,6 +112,9 @@ está dicho así en cada archivo.
   por su nombre discrepan sobre si un coche problemático lo es por diseño o por
   mal mantenimiento. Ninguno se impone: la respuesta depende de si quien
   pregunta quiere un proyecto o una herramienta.
+- **Encontrar una salida que ninguna fuente veía.** Ante el dilema de si
+  comprar un premium alemán usado, una fuente posterior aportó una tercera
+  opción —premium japonés— que resuelve lo que las dos primeras discutían.
 - **Rechazar lo que una fuente afirma mal.** Hay dos casos registrados en los
   que la conclusión es defendible pero la explicación causal es inventada; se
   guardan marcados como falsos para que no se repitan.

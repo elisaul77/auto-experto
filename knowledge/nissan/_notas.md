@@ -39,9 +39,12 @@ Dos fuentes independientes ([V6] y [V7]) señalan la CVT de Nissan como **el**
 punto débil de la marca, sin que ninguna aporte cifras. El patrón es
 consistente ✅; **los datos concretos siguen sin existir en este repo**.
 
-> **Pendiente y prioritario:** kilometrajes reales de fallo y coste de
-> sustitución de una CVT de Nissan. Es de lo que más se habla en la calle y de
-> lo único que la base no puede responder con números.
+**Cerrado en parte el 2026-09-09:** [V8] aporta el primer dato concreto — que
+Nissan vendió el fluido como libre de mantenimiento y en la práctica duraba del
+orden de 40.000 km. Todo el asunto tiene ahora
+**[ficha propia](../motores/nissan-cvt.md)**.
+
+> **Sigue pendiente:** coste real de sustitución de una CVT en Colombia.
 
 ## Fuentes
 - `[V6]`, `[V7]`

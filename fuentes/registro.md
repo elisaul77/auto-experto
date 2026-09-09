@@ -269,3 +269,63 @@ Los primeros ~19 min son el bloque técnico —de donde sale casi todo lo
 fichado—. El resto es preguntas del chat: útil para datos sueltos de modelos
 (Ford EcoBoost, Fusion Sport, Durango, PCV del Pentastar, 22R, Kicks), pero
 son respuestas rápidas sin diagnóstico, y así están marcadas.
+
+## [V8] — "10 usados fiables" (canal de taller, hispanohablante)
+
+- **URL:** https://www.youtube.com/watch?v=ivAWHutsXOs · **Duración:** ~16 min
+- **Ingerido:** 2026-09-09
+- **Tipo:** lista de recomendados con criterio de taller → peso **medio**.
+  Declara basarse en informes de fiabilidad, encuestas de propietarios y
+  experiencia propia en taller.
+- **Pista:** inglés traducido; corrupta en siglas y nombres.
+
+### ⚠️ Probablemente el mismo canal que [V4] y [V5] 🔵
+
+**No confirmado, pero los indicios son fuertes:** usa "tóxico" como término
+propio igual que [V4]/[V5] —ahí es hasta el nombre de su *merch*—, la misma
+muletilla al dirigirse al espectador, y habla desde un taller propio.
+
+**Consecuencia aplicada:** sus coincidencias con [V4] y [V5] **no suben ningún
+dato a ✅**. Sí cuenta como independiente frente a [V6] y [V7], que son canales
+distintos con certeza.
+
+### Cierra el hueco más grande del repo
+
+Era el pendiente marcado como prioritario desde [V6]: **datos de marcas
+japonesas y coreanas**. Aporta 10 modelos con motor identificado, 8 fichas de
+motor **no BMW** —la carpeta `motores/` deja de ser monomarca— y, por fin, un
+dato cuantificado sobre **la CVT de Nissan**, que ahora tiene ficha propia.
+
+### Aporta un principio nuevo
+
+**Un componente no es bueno o malo en abstracto: depende de cuánto se le
+exija.** Su ejemplo es la caja 6F35, problemática en otros modelos y duradera
+en el Ford Fusion porque ahí no trabaja al límite. Justifica que este repo
+fiche motor **y** modelo, y no uno solo.
+
+### Aporta una salida a la contradicción central ⚠️
+
+Frente al dilema [V1] (compra alemán usado barato) contra [V4] (ningún alemán
+viejo compensa), [V8] propone una tercera vía que ninguna de las dos
+contemplaba: **premium japonés**. Un Lexus ES350 da la sensación de coche caro
+con mecánica Toyota debajo. Añadido a los principios.
+
+### Confirma independientemente
+
+- **Inyección directa y carbonilla en admisión**: [V8] pide limpieza cada
+  100.000 km; [V7] —canal distinto con certeza— recomienda catch can en todo
+  motor de inyección directa. Mismo problema desde dos lados ✅.
+- **El ejemplar por encima del modelo**: la fuente que más modelos recomienda
+  cierra diciendo que ni el mejor de su lista sirve si lo maltrataron ✅.
+
+### Reconstrucción (ASR)
+
+| Transcripción | Real |
+|---|---|
+| "CBT" | **CVT** |
+| "B6" / "B62 GRFE" | **V6** / **2GR-FE** |
+| "Vtech" | VTEC |
+| "BCM" (en el J35) | **VCM**, gestión variable de cilindros |
+| "2ZRF" | 2ZR-FE |
+| "Cambridge" | Camry |
+| "priossado" | Prius |
