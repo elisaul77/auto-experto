@@ -4,6 +4,13 @@ Leer este archivo **antes** que cualquier ficha. Entrar siempre por el motor.
 
 ## Antes de las fichas
 
+Si la consulta es **comprar** —nuevo o usado— y aparece la palabra precio,
+valor o reventa, leer [depreciación](../references/depreciacion.md). Es el mayor
+coste de tener un coche y distingue la ganga real de la trampa: **una caída de
+precio puede ser estructural (flotas, marca en duda) o por defecto (revisiones,
+obsolescencia)**, y solo la segunda debe frenar la compra.
+
+
 Si la consulta es **comprar usado**, leer primero
 [principios-compra-usado](../references/principios-compra-usado.md). Contiene
 una contradicción abierta ⚠️ entre fuentes que **no se resuelve con fichas**,
@@ -71,7 +78,14 @@ Fuente única y de tipo opinión: todo 🟡, ninguna ficha con datos duros todav
 | Toyota | RAV4 2007 V6 3.5 🟢 | [notas](toyota/_notas.md) |
 | Jeep | Grand Cherokee 2015-2016: Hemi vs Pentastar | [notas](jeep/_notas.md) |
 | Ford | Híbridos PowerBoost/Maverick 🟡 · Mustang GT 2016 = siempre Coyote | [notas](ford/_notas.md) |
+| Hyundai / Kia | Componente de carga E-GMP: fallo sin aviso, demanda colectiva, piezas de reemplazo que repiten el fallo ⚠️ | [notas](hyundai-kia/_notas.md) |
+| Nissan | Leaf 🔴 (conector obsoleto + batería sin refrigerar, malo en calor) · Murano y las CVT | [notas](nissan/_notas.md) |
+| Alfa Romeo | Conducen muy bien; el riesgo es la marca y la red de talleres | [notas](alfa-romeo/_notas.md) |
+| Jaguar | F-Pace huérfano: Jaguar cerró la combustión en dic-2025 | [notas](jaguar/_notas.md) |
+| Mercedes | EQS: la mayor caída de valor registrada en el repo | [notas](mercedes/_notas.md) |
+| RAM | 1500 Classic: depreciación de flota **sin** problema mecánico 🟢 | [notas](ram/_notas.md) |
 | — | [Lista segura mainstream](mainstream/_lista-segura.md): Corolla, Camry, Prius, Civic, Accord, Elantra | |
+| — | [Depreciación: lista EE. UU. 2026](depreciacion/lista-2026-eeuu.md) | |
 
 ## Pendientes
 

@@ -80,7 +80,7 @@ Las transcripciones de trabajo se generan fuera del repo y están en `.gitignore
 
 ## Estado
 
-Cuatro fuentes ingeridas. La base **sigue muy sesgada a BMW**: es la única marca
+Cinco fuentes ingeridas. La base **sigue muy sesgada a BMW**: es la única marca
 con fichas de motor y datos de coste. Lo demás son notas de una sola fuente, y
 está dicho así en cada archivo.
 
@@ -88,7 +88,10 @@ está dicho así en cada archivo.
 - **15 modelos** BMW, en verde y en rojo
 - Gama actual y decodificador de la nomenclatura (eje *coche nuevo*)
 - Principios transversales de compra en usado
-- Notas sueltas de VW, Toyota, Jeep y Ford
+- **Depreciación**: taxonomía de causas y por qué una caída de precio puede ser
+  una ganga o una trampa según de dónde venga
+- Notas de VW, Toyota, Jeep, Ford, Hyundai/Kia, Nissan, Alfa Romeo, Jaguar,
+  Mercedes y RAM
 
 ### Lo que ya sabe hacer que no es obvio
 
@@ -98,6 +101,10 @@ está dicho así en cada archivo.
   el único coche del comprador. La skill pregunta eso antes de recomendar.
 - **Distinguir fuentes independientes de fuentes que solo se repiten.** Dos
   vídeos del mismo canal no confirman nada entre sí, y está anotado.
+- **Afinar un principio con una fuente nueva.** Una fuente estableció que un
+  precio muy por debajo del mercado esconde un problema; otra demostró que a
+  veces la causa es estructural (flotas, marca en duda) y no afecta al coche.
+  El principio no se borró: se convirtió en una pregunta con dos respuestas.
 - **Rechazar lo que una fuente afirma mal.** Hay dos casos registrados en los
   que la conclusión es defendible pero la explicación causal es inventada; se
   guardan marcados como falsos para que no se repitan.

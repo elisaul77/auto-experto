@@ -40,6 +40,26 @@ mercado ya sabe algo que el comprador todavía no.
 Aplica igual dentro de un mismo modelo: el ejemplar más barato del anuncio suele
 serlo por una razón que no está en la foto.
 
+### ⚠️ Matiz que corrige este principio
+
+[V6] muestra que **no toda caída de precio esconde un defecto**. Un modelo puede
+hundirse por sobreoferta de flotas, por incertidumbre sobre el futuro de la
+marca o porque su segmento entero pierde compradores — causas que **no afectan
+en nada a cómo funciona el coche**.
+
+Así que el principio se afina: un precio bajo es una **pregunta**, no un
+veredicto. La pregunta es *cuál de las dos*:
+
+| Depreciación **estructural** | Depreciación **por defecto** |
+|---|---|
+| Flotas, marca en duda, segmento en retirada | Revisiones de seguridad, fallos que reaparecen, obsolescencia técnica |
+| Afecta a la reventa, no al uso → **oportunidad** | Afecta al uso → **trampa** |
+| Ram 1500 Classic, Alfa Giulia | Nissan Leaf, VW ID.4, Ioniq 5 / EV6 |
+
+Distinguirlas es [depreciación](depreciacion.md). Es de lo más útil que hace
+esta skill: casi nadie se lo plantea así, y es lo que separa una ganga de una
+ruina cuando las dos tienen la misma etiqueta de precio.
+
 ## 3-ter. La espiral del mantenimiento diferido
 
 En un premium que ya perdió valor, el servicio sigue costando precio de premium.

@@ -159,3 +159,55 @@ coloquial y con música. **Ninguna cifra de esta fuente se fichó como dato.**
 En los dos casos **la conclusión es defendible y el mecanismo es falso**. Quedan
 registradas en las fichas para que no se repitan. Es el patrón de riesgo de este
 tipo de fuente: explicaciones causales inventadas sobre fallos que sí son reales.
+
+## [V6] — lista de depreciación (canal "Carson"/"Carsone", EE. UU., 2026)
+
+- **URL:** https://www.youtube.com/watch?v=GgYEnQMCeOA · **Duración:** ~22 min
+- **Ingerido:** 2026-09-09
+- **Tipo:** análisis de mercado → peso **medio**. No es fuente técnica, pero
+  las causas que describe son comprobables y bien razonadas.
+- **Canal independiente** de [V1] y de [V4]/[V5].
+- **Pista:** inglés traducido, corrupta en nombres propios y en cifras absolutas.
+- **Aporta un eje entero que faltaba: la depreciación.** Es el mayor coste de
+  tener un coche y ninguna fuente anterior lo mencionaba. Genera
+  `references/depreciacion.md` y siete marcas nuevas en la base.
+
+### Corrige un principio ya fichado ⚠️
+
+[V5] estableció que un precio muy por debajo del mercado es alguien huyendo de
+un problema. [V6] demuestra que **no siempre**: sobreoferta de flotas,
+incertidumbre de marca o un segmento en retirada hunden el precio sin que el
+coche tenga nada malo.
+
+El principio no se borra, **se afina**: un precio bajo es una pregunta, y la
+respuesta se busca en la taxonomía de causas. Es la primera vez que una fuente
+nueva mejora un principio en vez de contradecirlo o repetirlo.
+
+### Reconstrucción de nombres (ASR)
+
+| Transcripción | Real |
+|---|---|
+| "CBT transmission" | **CVT** (la propia fuente la describe bien) |
+| "steelvowski" | Stelvio |
+| "Estelantis" | Stellantis |
+| "Julia" / "Yulia" | **Giulia** |
+| "Ionic 5" / "IC 5" | **Ioniq 5** |
+| "AV6" / "EVI6" / "Levi 6" | **EV6** |
+| "NA standard" / "NAX" | **NACS** (conector de Tesla) |
+| "Seo load" | **CHAdeMO** |
+| "FPace" / "The Face" | **F-Pace** |
+| "Howard built his last..." | **Jaguar** |
+| "lift" / "left" | **Leaf** |
+
+### ⚠️ Cifras absolutas no utilizables
+
+Varios importes en dólares llegaron truncados y **se contradicen con sus propios
+porcentajes** ("unos 1.000 dólares, casi el 30 % del valor" es imposible). Norma
+aplicada al fichar: **donde porcentaje y absoluto discrepan, sobrevive el
+porcentaje**. Los absolutos solo se fichan cuando la fuente los repite.
+
+### Todo es mercado de EE. UU.
+
+Las cifras no valen en Colombia: aquí no existió el incentivo fiscal que
+menciona, el parque de eléctricos es otro y los conectores de carga son otros.
+**Lo que viaja es la taxonomía de causas, no los números.**

@@ -28,4 +28,22 @@ Con mantenimiento normal da buen servicio en manual. Es el ejemplo perfecto del
 [principio 5](../../references/principios-compra-usado.md): mismo coche, dos
 compras opuestas según la caja.
 
+## ID.4 — el eléctrico
+
+Perdió cerca de un tercio de su valor en uno o dos años [V6] 🟡. Motivos:
+
+- **Dos llamadas a revisión en 2026.** La segunda, por **riesgo de incendio en
+  la batería** por celdas mal alineadas; VW tuvo que sustituir packs enteros 🟡.
+- **Orden de detención de ventas** en un momento dado porque algunas unidades
+  **abrían las puertas solas en marcha** 🟡.
+- Software lento, controles táctiles que no responden y reinicios de pantalla
+  en marcha en los primeros modelos 🟡.
+
+"Batería" y "fuego" en la misma frase hunden un usado, y con razón. Esta es
+depreciación que **sí refleja un problema real** — ver
+[depreciación](../../references/depreciacion.md).
+
+Si se valora uno usado: confirmar **qué revisiones se le aplicaron y si el pack
+se sustituyó**.
+
 > **Pendiente:** código de motor real, kilometrajes de fallo, coste de una DSG.
