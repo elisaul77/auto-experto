@@ -28,11 +28,21 @@ Dos coches con el mismo número pueden llevar la tracción cambiada:
 
 | Modelo | Tracción |
 |---|---|
-| Serie 1 | **Delantera** |
+| Serie 1 **actual (F40, 2019+)** | **Delantera** |
 | Serie 2 **Gran Coupé** | **Delantera** |
 | Serie 2 **Coupé** | **Trasera** |
 | M2 | Trasera (solo coupé) |
 | Serie 3 en adelante | Trasera o total |
+
+> ⚠️ **Corregido el 2026-09-09.** Esta tabla se escribió desde una fuente sobre
+> la **gama actual** y decía "Serie 1 → delantera" sin calificar generación.
+> **Es falso para el usado**: las Series 1 anteriores (E87 2004-2011 y F20
+> 2011-2019) son de **propulsión trasera** — de hecho eran el único compacto
+> del segmento que lo era, y es parte de su atractivo 🔵.
+>
+> Lección de método: un dato tomado de una fuente sobre coches nuevos **no se
+> puede generalizar al usado sin calificar la generación**. Al fichar desde una
+> fuente de gama actual, escribir siempre el chasis.
 
 Es el dato con más consecuencias del vídeo [V3] ✅: alguien que compra un
 "Serie 2" buscando el tacto BMW de propulsión y se lleva el Gran Coupé, compra

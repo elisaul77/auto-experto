@@ -50,6 +50,7 @@ tracción delantera (Serie 1 y Serie 2 Gran Coupé — la confusión más cara).
 | M240i | F22 | 2017-2021 | B58 | 🟢 | [ficha](bmw/f22-m240i.md) |
 | M2 | F87 | 2016-2018 | N55 | 🟢 | [ficha](bmw/f87-m2.md) |
 | X5 40i | G05 | 2019-2022 | B58 | 🟢 | [ficha](bmw/g05-x5-40i.md) |
+| **120d** | E87/F20 | 2004-2019 | **M47/N47/B47** | ⚠️ sin fuente | [ficha](bmw/serie1-120d.md) |
 | Serie 5 | E60 | 2003-2010 | varios | 🔴 | [ficha](bmw/e60-serie5.md) |
 | M5 | E60 | 2005-2010 | **S85** V10 | 🔴 | [ficha](bmw/e60-m5.md) |
 | M3 | E92 | 2007-2013 | **S65** V8 | 🔴 coste | [ficha](bmw/e92-m3.md) |
@@ -94,6 +95,13 @@ Fuente única y de tipo opinión: todo 🟡, ninguna ficha con datos duros todav
 | Dodge / RAM | Durango 2017+: electrónica, colector V8, MDS · PCV del Pentastar | [notas](dodge/_notas.md) |
 | Marcas chinas | Depreciación brutal por desconfianza, no por defecto probado | [notas](chinos/_notas.md) |
 | — | [Depreciación: lista EE. UU. 2026](depreciacion/lista-2026-eeuu.md) | |
+
+## Huecos conocidos (decirlos, no improvisar)
+
+- **BMW diésel**: ninguna fuente. El N47 y su cadena trasera son 🔵 puro.
+- **Serie 1**: no aparece en ninguna fuente; no se vendió apenas en EE. UU.,
+  que es de donde viene casi todo el material.
+- **CVT de Nissan** y **cuatro cilindros de Hyundai**: patrón claro, cero cifras.
 
 ## Pendientes
 
