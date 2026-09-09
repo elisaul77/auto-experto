@@ -19,6 +19,23 @@ según el motor que le tocó 🔵:
 **Sin el año exacto no se puede opinar.** Es la aplicación directa de la regla
 1 de la skill.
 
+## ⚠️ 2011 es el peor año posible para preguntar
+
+En 2011 conviven las dos generaciones —el E87 termina y el F20 arranca— y
+**las dos montan N47** 🔵. El B47, que es el que resuelve el problema, no llega
+hasta ~2014-2015. **Por año no hay escapatoria: un 120d de 2011 lleva N47.**
+
+Y hay un segundo matiz que el año **ya no puede resolver**: BMW revisó los
+componentes de la distribución del N47 alrededor de 2011-2012 🔵. Así que un
+coche de ese año concreto puede llevar el diseño viejo o el revisado.
+
+**Cómo se resuelve a partir de aquí:** ya no con el año, sino con la **fecha de
+producción exacta (VIN)** y con los **números de pieza** de la distribución.
+Es la pregunta que hay que hacerle al vendedor o al taller.
+
+> ⚠️ Los años exactos de la revisión son 🔵 y **están sin verificar en este
+> repo**. Confirmar antes de usarlos para descartar o aprobar una compra.
+
 ## El N47 y su cadena de distribución 🔵
 
 Motor diésel 2.0 de esa época con **fama de rotura de la cadena de
@@ -40,7 +57,8 @@ Ver [gama y nomenclatura](_gama-y-nomenclatura.md).
 
 ## Qué preguntar antes que nada
 
-1. **Año y chasis exactos** (E87 / F20). Decide todo.
+1. **Fecha de producción (VIN)**, no solo el año. En 2011 el año no basta:
+   ver arriba.
 2. **¿Cadena de distribución hecha, con factura?** En un N47 esto no es un
    extra: es el producto.
 3. **¿Lleva filtro de partículas (DPF)?** Depende del año y de la norma de
