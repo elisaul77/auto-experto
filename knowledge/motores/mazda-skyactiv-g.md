@@ -26,8 +26,12 @@ no se van solos.
 **Conecta con [V7]**, que recomienda montar un **catch can** en todos los
 motores de inyección directa 🟡: la porquería que ese vaso retiene es
 exactamente la que acaba pegada en esas válvulas. Ver
-[aceite y lubricación](../../references/aceite-y-lubricacion.md). Dos fuentes
-independientes apuntando al mismo problema desde lados distintos ✅.
+[aceite y lubricación](../../references/aceite-y-lubricacion.md).
+
+> ⚠️ **Corregido el 2026-09-09.** Esto se marcó ✅ dando por hecho que [V7] y
+> [V8] eran canales distintos. **No lo son.** Es una sola fuente hablando del
+> mismo problema dos veces, así que vuelve a 🟡. Sigue siendo un consejo
+> coherente; simplemente no está confirmado.
 
 ## Fuentes
 - `[V8]`, `[V7]`

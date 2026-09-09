@@ -28,7 +28,8 @@ estos coches 🔵.
 ## Suspensión neumática
 
 Las RAM con neumática dan problemas; la conversión a muelles con coilovers es
-la salida [V5] 🟡. Mismo patrón que en el [X5 E53](../bmw/e53-x5.md).
+la salida [V5] 🟡. Mismo patrón que en el [X5 E53](../bmw/e53-x5.md), y ✅ confirmado por [V9]
+desde otro canal con un caso real cifrado.
 
 ## Fuentes
 - `[V5]`, `[V6]`

@@ -25,7 +25,7 @@ las cuatro últimas sí.
 | Causa | Cómo se reconoce | Ejemplo [V6] |
 |---|---|---|
 | **Sobreoferta de flotas** | Ex-policía, ex-empresa, ex-alquiler. Llegan al mercado en lotes al vencer contratos, no de uno en uno | Ram 1500 Classic |
-| **Incertidumbre de marca o modelo** | Modelo descontinuado sin sustituto, o marca cuyo futuro está en duda | Alfa Romeo Stelvio y Giulia, Jaguar F-Pace |
+| **Incertidumbre de marca o modelo** ✅ | Modelo descontinuado sin sustituto, o marca cuyo futuro está en duda. Confirmado por [V9] desde otro canal, que añade el remate: el día que necesitas una pieza no existe, y el día que vendes nadie compra | Alfa Romeo Stelvio y Giulia, Jaguar F-Pace |
 | **Segmento en retirada** | El coche está bien; su categoría entera pierde compradores | Giulia (el sedán de lujo cede ante los SUV) |
 
 ### Sí afectan al uso — aquí está la trampa
@@ -36,6 +36,13 @@ las cuatro últimas sí.
 | **Llamadas a revisión de seguridad** | "Batería" y "fuego" en la misma frase espantan al mercado, con razón | VW ID.4 |
 | **Fallo que reaparece tras repararse** | Lo grave no es el fallo, es que la reparación oficial no lo resuelve | Hyundai Ioniq 5 y Kia EV6 |
 | **Electrónica y asistencias que fallan** | Degrada el uso diario, no solo la reventa | Mercedes EQS |
+
+### Una causa que se la hace el propio dueño
+
+**Las modificaciones.** El dinero metido en sonido, llantas o luces no vuelve:
+el mercado general desconfía de los coches modificados [V9] 🟡. Colores raros y
+configuraciones de un solo año, lo mismo. Para conservar valor: de serie,
+limpio, original y en un color común.
 
 ### Dos causas de mercado, ajenas al coche
 

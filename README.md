@@ -80,7 +80,7 @@ Las transcripciones de trabajo se generan fuera del repo y están en `.gitignore
 
 ## Estado
 
-Siete fuentes ingeridas. El sesgo a BMW **ya está roto**: hay fichas de motor de Toyota, Honda, Ford y
+Ocho fuentes ingeridas. El sesgo a BMW **ya está roto**: hay fichas de motor de Toyota, Honda, Ford y
 Mazda con el mismo nivel de detalle. Lo que falta ahora no son marcas: son
 **precios del mercado colombiano**, y está dicho así en el índice.
 
@@ -89,6 +89,9 @@ Mazda con el mismo nivel de detalle. Lo que falta ahora no son marcas: son
 - **16 modelos** BMW y **10 mainstream** con motor identificado y su ficha
 - Gama actual y decodificador de la nomenclatura (eje *coche nuevo*)
 - Principios transversales de compra en usado
+- **Un método de compra** en cinco pasos: la regla del 90 %, el fondo de
+  emergencia del 25 %, cómo investigar un modelo y qué mira una inspección que
+  un escáner OBD2 no ve
 - **Mantenimiento**: aceites, viscosidades, filtros y los mitos que circulan
   como verdades, con el mecanismo detrás de cada uno
 - **Depreciación**: taxonomía de causas y por qué una caída de precio puede ser
@@ -103,7 +106,9 @@ Mazda con el mismo nivel de detalle. Lo que falta ahora no son marcas: son
   diario, en el mismo rango de precio. Las dos son defendibles: depende de si es
   el único coche del comprador. La skill pregunta eso antes de recomendar.
 - **Distinguir fuentes independientes de fuentes que solo se repiten.** Dos
-  vídeos del mismo canal no confirman nada entre sí, y está anotado.
+  vídeos del mismo canal no confirman nada entre sí, y está anotado. Cuando una
+  fuente posterior demostró que dos canales que yo había separado eran el mismo,
+  se retiró el dato que dependía de esa separación.
 - **Afinar un principio con una fuente nueva.** Una fuente estableció que un
   precio muy por debajo del mercado esconde un problema; otra demostró que a
   veces la causa es estructural (flotas, marca en duda) y no afecta al coche.

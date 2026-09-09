@@ -53,7 +53,15 @@ intervalos, un testigo encendido, un ruido— la ruta es otra: ve directo a
 para responder la mayoría de esas preguntas, y la respuesta casi siempre
 empieza por **el grado que dice el manual**.
 
-**Si la intención es comprar:**
+**Si la intención es comprar: empieza por
+`references/metodo-compra-usado.md`.** Es el guion por defecto y va **antes**
+que cualquier ficha. Dos preguntas suyas deciden más que toda la base:
+
+- **¿Cómo usas el coche de lunes a viernes?** (regla del 90 %)
+- **¿Te cabe un 25 % de fondo de emergencia además del precio?** Si no cabe,
+  el coche es demasiado caro: se baja de coche, no de fondo.
+
+Luego:
 
 1. **`knowledge/INDEX.md`** — tabla marca → generación → ficha. Siempre primero.
 2. **`knowledge/<marca>/<gen>-<modelo>.md`** — la ficha del vehículo.

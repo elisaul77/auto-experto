@@ -2,6 +2,12 @@
 
 Leer este archivo **antes** que cualquier ficha. Entrar siempre por el motor.
 
+## Si la pregunta es de compra
+
+Empezar por [el método](../references/metodo-compra-usado.md), no por las
+fichas. Los cinco errores que arruinan una compra, la regla del 90 %, el fondo
+de emergencia del 25 % y la inspección pre-compra.
+
 ## Si la pregunta es de mantenimiento
 
 Aceite, viscosidad, filtros, aditivos, un testigo encendido: no entres por las

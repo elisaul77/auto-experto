@@ -35,8 +35,12 @@ export PATH="$BIN:$PATH"
 YD=("$BIN/yt-dlp" --js-runtimes deno --cookies-from-browser firefox --no-warnings)
 # El id se saca de la URL: pedirlo a yt-dlp gasta una llamada y falla si
 # el extractor está bloqueado, dejando todo con nombre "video".
+# Formatos: watch?v=<id>, youtu.be/<id>, /shorts/<id>. Hay que quitar los
+# parámetros de seguimiento (?si=...) ANTES de buscar el id por el final, o se
+# extrae un trozo del parámetro en vez del id.
+BARE=${URL%%\?*}; BARE=${BARE%%&*}
 ID=$(printf %s "$URL" | grep -oE '[?&]v=[A-Za-z0-9_-]{11}' | cut -c4- || true)
-[ -n "$ID" ] || ID=$(printf %s "$URL" | grep -oE '[A-Za-z0-9_-]{11}$' || echo video)
+[ -n "$ID" ] || ID=$(printf %s "$BARE" | grep -oE '[A-Za-z0-9_-]{11}$' || echo video)
 
 # --- 1) intento rápido: subtítulos ------------------------------------------
 # Preferir SIEMPRE es-orig: es el reconocimiento del audio original.

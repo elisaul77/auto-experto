@@ -1,5 +1,13 @@
 # Guion: el usuario quiere comprar
 
+## Empieza aquí
+
+**[El método: los cinco errores](metodo-compra-usado.md)** es el guion por
+defecto, antes que cualquier ficha. Resume en cinco pasos lo que decide una
+compra, y las dos preguntas que más rinden son suyas: **cómo usas el coche de
+lunes a viernes** (regla del 90 %) y **si te cabe el 25 % de fondo de
+emergencia** — si no cabe, hay que bajar de coche, no de fondo.
+
 ## Antes de nada
 
 Leer [principios-compra-usado](principios-compra-usado.md). Hay una

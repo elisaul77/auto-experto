@@ -19,6 +19,15 @@ Es el argumento central del vídeo [V1]: mientras el 335i de la misma época
 "pasaba meses en el taller destruyendo turbos y bombas de gasolina", el 328i
 con N52 seguía rodando 🟡.
 
+[V9], de otro canal, usa **exactamente este contraste** —N52 contra
+[N54](bmw-n54.md) del mismo año y la misma marca— como su ejemplo de que hay
+que investigar el modelo y no la marca ✅. Es confirmación independiente de la
+tesis que estructura este repo.
+
+Añade un matiz que [V1] no daba: los describe como **lentos y consumidores de
+aceite**, pero casi indestructibles si se los cuida 🟡. El consumo de aceite es
+información nueva: vigilar nivel entre servicios, no asumir que no baja.
+
 ## Fallos conocidos
 
 | Fallo | Cuándo aparece | Síntoma | Coste aprox. | Confianza |
@@ -45,5 +54,6 @@ con N52 seguía rodando 🟡.
   fallo, porque cuando falla lo hace de golpe y en marcha.
 
 ## Fuentes
+- `[V9]` — confirmación independiente del contraste N52/N54
 - `[V1]` GARAJE SUV NERD, "10 mejores modelos BMW para comprar en 2026" (2026-08-22)
 - Resto: conocimiento general 🔵, pendiente de segunda fuente

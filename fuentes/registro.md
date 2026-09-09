@@ -279,15 +279,24 @@ son respuestas rápidas sin diagnóstico, y así están marcadas.
   experiencia propia en taller.
 - **Pista:** inglés traducido; corrupta en siglas y nombres.
 
-### ⚠️ Probablemente el mismo canal que [V4] y [V5] 🔵
+### ⚠️ ATRIBUCIÓN CORREGIDA el 2026-09-09
 
-**No confirmado, pero los indicios son fuertes:** usa "tóxico" como término
-propio igual que [V4]/[V5] —ahí es hasta el nombre de su *merch*—, la misma
-muletilla al dirigirse al espectador, y habla desde un taller propio.
+**Primero se anotó aquí que era probablemente el canal de [V4]/[V5]**, por el
+uso de "tóxico". **Era una inferencia mala**: "tóxico" es jerga común en este
+nicho, no la firma de un canal.
 
-**Consecuencia aplicada:** sus coincidencias con [V4] y [V5] **no suben ningún
-dato a ✅**. Sí cuenta como independiente frente a [V6] y [V7], que son canales
-distintos con certeza.
+Al ingerir [V9] apareció evidencia mucho más fuerte de lo contrario: **[V8] y
+[V9] cierran con la misma despedida literal** ("gracias a la banda"), y [V9] es
+inequívocamente el canal de [V7] — mismo presentador, mismos coches de proyecto.
+
+**Conclusión actual 🔵: [V7], [V8] y [V9] son el mismo canal.** [V4] y [V5] son
+otro distinto, que de hecho **discute con el primero por su nombre**.
+
+**Consecuencia aplicada:** se retiró un ✅ que se había concedido a la
+coincidencia [V7]+[V8] sobre inyección directa. No eran dos fuentes.
+
+**Lección de método:** una jerga compartida no identifica un canal. Las
+despedidas, los nombres propios recurrentes y los coches de proyecto sí.
 
 ### Cierra el hueco más grande del repo
 
@@ -329,3 +338,55 @@ con mecánica Toyota debajo. Añadido a los principios.
 | "2ZRF" | 2ZR-FE |
 | "Cambridge" | Camry |
 | "priossado" | Prius |
+
+## [V9] — "los 5 errores al comprar usado" (Memo — **mismo canal que [V7] y [V8]**)
+
+- **URL:** https://youtu.be/POsTtiEok4U · **Duración:** ~18 min
+- **Ingerido:** 2026-09-09
+- **Tipo:** método, no lista → peso **alto en criterio**, nulo en datos duros.
+  **La fuente más accionable del repo.**
+- **Identificación cierta:** mismo presentador que [V7] (le llaman Memo, cita
+  su propio BMW de proyecto y Copart) y misma despedida que [V8].
+- **Aporta:** `references/metodo-compra-usado.md`, que pasa a ser el guion por
+  defecto del rol comprador, por delante de cualquier ficha.
+
+### Lo mejor que ha entrado en el repo
+
+> **La depreciación afecta al precio del coche, no al precio de sus repuestos.**
+
+Con su corolario: si no podías comprar ese coche nuevo, no vas a poder
+mantenerlo usado. Explica de una frase por qué la trampa del premium barato
+funciona tan bien.
+
+Y dos herramientas concretas que no estaban en ninguna fuente anterior: el
+**fondo de emergencia del 25 %** (si no cabe, se baja de coche, no de fondo) y
+el **truco de mirar la marca de los neumáticos** — un premium calzado con
+neumáticos desconocidos delata cómo lo mantuvieron, y se ve en la primera foto
+del anuncio.
+
+### Confirma independientemente (canal distinto de [V5] y de [V6])
+
+- **Conversión a muelles frente a suspensión neumática** ✅. Cuenta el caso
+  completo y cifrado de un Range Rover Sport: reparar fuelle por fuelle acabó
+  en un coche inservible que nadie quiso comprar. [V5] recomendaba lo mismo.
+- **Marcas huérfanas y depreciación** ✅. Llega a la conclusión de [V6] por otra
+  vía: el día que necesitas la pieza no existe, y el día que vendes nadie compra.
+- **La tesis fundacional del repo** ✅. Usa el contraste N52 contra N54 —misma
+  marca, mismo año, experiencias opuestas— como su ejemplo de por qué hay que
+  investigar el modelo y no la marca. Llega solo a la idea que organiza toda
+  esta base de conocimiento.
+
+### Corrige una atribución mía
+
+Fue [V9] quien destapó que [V8] **no** era del canal de [V4]/[V5], como yo había
+anotado, sino de este mismo. Se retiró en consecuencia un ✅ mal concedido sobre
+inyección directa. Detalles en la entrada de [V8].
+
+### Reconstrucción (ASR)
+
+| Transcripción | Real |
+|---|---|
+| "EBT" | **CVT** |
+| "Centra" | Sentra |
+| "godinipero" | godínez (oficinista, jerga mexicana) |
+| "BQ engines del 350" | motores **VQ** (350Z, Pathfinder) |

@@ -29,7 +29,12 @@ de sustitución.
 Si es cierto, explica la epidemia entera: miles de coches cuyos dueños nunca
 cambiaron un fluido **porque el fabricante dijo que no hacía falta**.
 
-> ⚠️ **Una sola fuente y sin verificar.** Confirmarlo antes de usarlo como
+[V9], del **mismo canal** que [V8] 🔵, da una segunda cifra desde otro ángulo:
+transmisiones que **fallaban a los 60.000 km "si te iba bien"** 🟡. No es
+confirmación independiente, pero las dos cifras encajan: un fluido que se dijo
+eterno y duraba ~40.000 km explica una caja que muere a los 60.000.
+
+> ⚠️ **Ambas cifras del mismo canal y sin verificar.** Confirmarlo antes de usarlo como
 > argumento. Pero si un Nissan con CVT llega con historial, **la pregunta es si
 > se le cambió el fluido y cada cuánto** — y la respuesta habitual será que no.
 
@@ -42,4 +47,4 @@ implementación** — y el mantenimiento que se dijo que no hacía falta.
 No usar "lleva CVT" como veredicto automático. Preguntar **de quién es**.
 
 ## Fuentes
-- `[V6]`, `[V7]`, `[V8]`, `[V4]`
+- `[V6]`, `[V7]`, `[V8]`, `[V9]`, `[V4]`
