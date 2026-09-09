@@ -38,6 +38,10 @@ sino preguntando por la situación del comprador.
 
 ## BMW
 
+**Si la consulta es "qué BMW usado compro" en general**, empezar por
+[BMW en cinco eras](../references/bmw-por-eras.md): sitúa cualquier modelo en su
+época y dice de cuáles huir. La era dice más que el modelo.
+
 **Antes de nada, si la consulta es de coche nuevo o de "qué significa este
 número":** [Gama y nomenclatura](bmw/_gama-y-nomenclatura.md). Explica qué es
 cada serie del 1 al 8, la diferencia entre `M340i` y `M3`, y qué modelos llevan
@@ -95,6 +99,10 @@ tracción delantera (Serie 1 y Serie 2 Gran Coupé — la confusión más cara).
 | N55 | 6L turbo | 🟢 | [ficha](motores/bmw-n55.md) |
 | N20 | 4L turbo | 🔴 | [ficha](motores/bmw-n20.md) |
 | N63 | V8 biturbo | 🔴 | [ficha](motores/bmw-n63.md) |
+| **N53** | 6L atmosférico iny. directa | 🔴 **la trampa escondida** | [ficha](motores/bmw-n53.md) |
+| N42/N45/N46 | 4 cil. gasolina | 🔴 | [ficha](motores/bmw-n4x-4cil.md) |
+| S55 | 6L biturbo (M3 F80) | 🟢 con aceite estricto | [ficha](motores/bmw-s55.md) |
+| M57 | 6L **diésel** | 🟢 el único diésel recomendado | [ficha](motores/bmw-m57.md) |
 | S65 | V8 atmosférico (M3 E92) | 🔴 bielas | [ficha](motores/bmw-s65.md) |
 | S85 | V10 atmosférico (M5 E60) | 🔴 bielas | [ficha](motores/bmw-s85.md) |
 | B48 | 4L turbo | 🟢 | [ficha](motores/bmw-b48.md) |
@@ -127,7 +135,8 @@ Fuente única y de tipo opinión: todo 🟡, ninguna ficha con datos duros todav
 
 ## Huecos conocidos (decirlos, no improvisar)
 
-- **BMW diésel**: ninguna fuente. El N47 y su cadena trasera son 🔵 puro.
+- **N47 diésel** (Serie 1/3 de 4 cilindros): sigue sin fuente, todo 🔵. El
+  M57 de seis cilindros sí está recomendado, pero **es otro motor**.
 - **Serie 1**: no aparece en ninguna fuente; no se vendió apenas en EE. UU.,
   que es de donde viene casi todo el material.
 - **Familia Theta de Hyundai**: identificada, pero **sin cifras** de fallo ni coste.
@@ -136,6 +145,7 @@ Fuente única y de tipo opinión: todo 🟡, ninguna ficha con datos duros todav
 ## Pendientes
 
 - S58, S63, S68 (los M actuales) — referenciados desde _gama-y-nomenclatura.md
+- Ficha propia del M57: hay recomendación pero ningún fallo documentado
 - S55 (M2 Competition, M3/M4 F80/F82) — referenciado desde f87-m2.md
 - S85 (E60 M5 V10) — mencionado en [V1], sin ficha
 - **La base sigue sesgada a BMW**: es la única marca con fichas de motor y

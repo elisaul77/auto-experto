@@ -153,6 +153,37 @@ asumir riesgo a cambio de muy poco.
 **Elegir filtro:** OEM o marca reconocida. Los de fibra sintética aguantan más
 que los de celulosa/papel [V7] 🟡.
 
+## ⭐ El "fluido de por vida" no existe ✅
+
+Es el hallazgo transversal más rentable del repo, porque **dos fabricantes sin
+relación entre sí hicieron la misma promesa y produjeron el mismo desastre**:
+
+| Marca | La promesa | La realidad |
+|---|---|---|
+| **BMW** | El aceite de la transmisión automática es *de por vida* | Por eso **fallan tantas cajas con kilometraje alto**. Basta con cambiarlo [V11] 🟡 |
+| **Nissan** | El fluido de la [CVT](../knowledge/motores/nissan-cvt.md) no necesita mantenimiento | Duraba del orden de **40.000 km** [V8] 🟡 |
+
+✅ **Confirmado por fuentes independientes** — [V11] es un dueño de BMW, [V8] un
+canal de taller distinto. Marcas distintas, mercados distintos, **el mismo
+patrón**.
+
+> **"De por vida" en la hoja de mantenimiento significa "durante la garantía",
+> no "durante la vida del coche".**
+
+### Qué hacer con esto
+
+1. **Cambiar el aceite de la caja automática** aunque el fabricante diga que no
+   hace falta. [V11] lo extiende también al **diferencial** 🟡.
+2. Al comprar un usado con caja automática, **preguntar si se cambió alguna
+   vez**. La respuesta habitual será que no, porque el manual decía que no hacía
+   falta — y eso es un gasto pendiente, no un imprevisto.
+3. Es también la respuesta a *"pero el manual dice que no"*: el manual está
+   escrito para el periodo de garantía.
+
+[V11] lo lleva más lejos con los motores M: **no fiarse de los intervalos
+oficiales de BMW, que "siempre están equivocados"** 🟡, ni en aceite ni en
+transmisión.
+
 ## Otras prácticas
 
 ### Catch can — recomendado en inyección directa ✅ por criterio

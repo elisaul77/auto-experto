@@ -50,6 +50,21 @@ pesa más que la pieza**.
 > rediseñó las guías a mitad de producción, igual que hizo con el
 > [N20](../motores/bmw-n20.md). **Fuente prioritaria.**
 
+## ⚠️ El Serie 1 que las fuentes sí recomiendan es otro
+
+[V11] no menciona el 120d, pero sí señala **el E87 130i** como una de las joyas
+de su era: seis en línea **atmosférico**, propulsión trasera y manual, en
+carrocería compacta 🟡. Lo describe como algo que ya no existe y que casi no
+llegó a existir.
+
+Y sobre el diésel BMW, lo único que recomienda es el
+**[M57](../motores/bmw-m57.md)** de seis cilindros en los X3/X5 — **que no es
+el N47** de este coche. Ver esa ficha: que exista un buen diésel BMW no valida
+a todos los diésel BMW.
+
+**Traducción para un comprador:** si lo que atrae es "un Serie 1 con motor
+bueno", el que buscan las fuentes es el **130i de gasolina**, no el 120d.
+
 ## Tracción
 
 **Propulsión trasera** en E87 y F20 🔵 — a diferencia de la Serie 1 actual.

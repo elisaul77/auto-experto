@@ -432,3 +432,67 @@ No se promedia.
 | "Rap 4" | RAV4 |
 | "chasis de pup" | chasis de largueros (carrocería sobre bastidor) |
 | "Vitec" | VTEC |
+
+## [V11] — BMW en cinco eras (**dueño / entusiasta**, canal independiente)
+
+- **URL:** https://youtu.be/eABiCmSbirw · **Duración:** ~19 min
+- **Ingerido:** 2026-09-09
+- **Tipo de fuente NUEVO: dueño de largo plazo, no taller.** Diez años de
+  experiencia acumulada; **declara explícitamente que no es mecánico**. Tiene
+  un E46 330i propio.
+- **Peso:** **alto** en qué modelo y año concretos comprar y en detalles de
+  convivencia; **bajo** en mecanismo técnico. Ver `references/niveles-confianza.md`,
+  donde se añadió la tabla de tipos de fuente a raíz de esta.
+- **Canal independiente** de [V1], de [V4]/[V5] y de la familia [V7]-[V10].
+- **Aporta:** `references/bmw-por-eras.md`, cuatro motores nuevos (N53, N42/45/46,
+  S55, M57) y dos principios transversales.
+
+### ✅ Confirma la tesis fundacional del repo, palabra por palabra
+
+> No estás comprando un modelo BMW, estás comprando un motor BMW.
+
+Tercera fuente independiente que llega sola a la idea sobre la que está
+construida esta base ([V1], [V9], [V11]). Y añade el método operativo: buscar
+el **código de chasis** para ver qué años llevaron qué motores.
+
+### ✅ El hallazgo transversal más rentable: "de por vida" no existe
+
+BMW vendió el aceite de su caja automática como *de por vida*, y por eso fallan
+tantas cajas con kilometraje alto. **Nissan hizo exactamente lo mismo con el
+fluido de su CVT** ([V8], canal distinto). Dos fabricantes sin relación, la
+misma promesa, el mismo desastre. Fichado en `aceite-y-lubricacion.md`.
+
+### La trampa que faltaba: el N53
+
+Alguien que aprende "el N54 turbo es malo, compra un 330i atmosférico" cae en
+el **N53** del facelift europeo: la fiabilidad del N54 **sin sus turbos**.
+Relevante en Colombia, donde hay importados de ambos mercados 🔵.
+
+### Un principio que no estaba en ninguna fuente
+
+**El tipo de dueño que atrae un modelo forma parte del riesgo.** El M2 y el
+M235i llevan el mismo motor; compraría el primero y no el segundo, porque el M2
+es un coche por el que la gente ahorra y el M235i es el diario de alguien que
+se salta cambios de aceite. Es la versión predictiva del principio 4.
+
+### Matiza a [V1] sin contradecirlo
+
+[V1] daba el N55 por bueno sin reservas. [V11], desde la silla del dueño, dice
+que es mejor que el N54 pero **"siempre una apuesta"**, y que él no compraría un
+335i salvo que confiara en el dueño anterior. No es contradicción: es el
+principio 4 aplicado a un motor concreto. Anotado en la ficha del N55.
+
+Aporta además el dato accionable que [V1] no daba: **E90 335i de 2010 a 2012**
+son los del N55, no los del N54.
+
+### Reconstrucción (ASR)
+
+| Transcripción | Real |
+|---|---|
+| "1999 3" | **M3 E90/E92** |
+| "Z3.0i" / "Z4 3.0 OSI" | Z3 3.0i / Z4 3.0si |
+| "E6530i" / "E65760i" | E65 730i / E65 760i |
+| "F-335i" / "F-32435i" | F30 335i / F32 435i |
+| "M130i" / "M230i" | M135i / M235i |
+| "G24 230i" | G42 230i 🔵 |
+| "hadchback" | hatchback |

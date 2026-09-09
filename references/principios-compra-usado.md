@@ -114,6 +114,27 @@ motor es malo", preguntar **en qué coche**. Un componente al límite de su
 capacidad falla; el mismo con margen, no. Es la razón por la que este repo
 ficha motor **y** modelo, y no uno solo de los dos.
 
+## 3-sexies. El tipo de dueño que atrae un modelo forma parte del riesgo
+
+Observación de [V11] que no aparece en ninguna otra fuente y es muy fina 🟡:
+
+> El **M2** y el **M235i** llevan el mismo motor. No compraría un M235i, pero sí
+> un M2. ¿Por qué? Porque el M2 es un coche que la gente **ahorró para
+> comprarse** y cuidó. El M235i suele ser el diario de alguien que se saltó
+> cambios de aceite.
+
+**Mismo motor, riesgo distinto — por el perfil de quien lo tuvo.**
+
+Es la versión predictiva del [principio 4](#4-el-ejemplar-concreto-pesa-más-que-las-estadísticas-del-modelo-):
+antes de ver el ejemplar concreto, **el modelo ya te dice qué clase de dueño
+suele tener**. Los coches aspiracionales que la gente persigue durante años
+tienden a llegar mejor cuidados que las versiones intermedias que se compran
+como coche de diario.
+
+Aplicado a otras marcas 🔵: la versión tope suele estar mejor mantenida que la
+intermedia del mismo modelo, aunque el mecánico sea el mismo. **Sin verificar
+fuera de BMW.**
+
 ## 4. El ejemplar concreto pesa más que las estadísticas del modelo ✅
 
 Un coche muy bien mantenido de un modelo con estadísticas mediocres puede ser

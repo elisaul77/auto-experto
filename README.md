@@ -80,11 +80,13 @@ Las transcripciones de trabajo se generan fuera del repo y están en `.gitignore
 
 ## Estado
 
-Nueve fuentes ingeridas. El sesgo a BMW **ya está roto**: hay fichas de motor de Toyota, Honda, Ford y
+Diez fuentes ingeridas. El sesgo a BMW **ya está roto**: hay fichas de motor de Toyota, Honda, Ford y
 Mazda con el mismo nivel de detalle. Lo que falta ahora no son marcas: son
 **precios del mercado colombiano**, y está dicho así en el índice.
 
-- **24 fichas de motor**: 10 de BMW y 14 de Toyota, Honda, Ford, Mazda, Subaru
+- **BMW en cinco eras**, para orientarse en el catálogo cuando la era dice más
+  que el modelo
+- **28 fichas de motor**: 10 de BMW y 14 de Toyota, Honda, Ford, Mazda, Subaru
   e Hyundai, más la transmisión CVT de Nissan
 - **16 modelos** BMW y **20 mainstream** —coches y SUV— con su motor
   identificado
@@ -114,6 +116,10 @@ Mazda con el mismo nivel de detalle. Lo que falta ahora no son marcas: son
   precio muy por debajo del mercado esconde un problema; otra demostró que a
   veces la causa es estructural (flotas, marca en duda) y no afecta al coche.
   El principio no se borró: se convirtió en una pregunta con dos respuestas.
+- **Fichar cada fuente por su punto fuerte.** Un dueño de largo plazo acierta
+  con el año exacto que hay que buscar y advierte que no sabe de mecánica; un
+  mecánico explica el mecanismo y no sabe de precios. Se les pide cosas
+  distintas.
 - **Sostener un desacuerdo entre profesionales.** Dos mecánicos que se citan
   por su nombre discrepan sobre si un coche problemático lo es por diseño o por
   mal mantenimiento. Ninguno se impone: la respuesta depende de si quien
