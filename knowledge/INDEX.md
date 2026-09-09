@@ -60,6 +60,7 @@ tracción delantera (Serie 1 y Serie 2 Gran Coupé — la confusión más cara).
 | M240i | F22 | 2017-2021 | B58 | 🟢 | [ficha](bmw/f22-m240i.md) |
 | M2 | F87 | 2016-2018 | N55 | 🟢 | [ficha](bmw/f87-m2.md) |
 | X5 40i | G05 | 2019-2022 | B58 | 🟢 | [ficha](bmw/g05-x5-40i.md) |
+| **320i** | E46 / **E90** | ~1998-2011 | M54B22 / **N46** 🔴 | ⚠️ frontera en 2005-06 | [motor](motores/bmw-n4x-4cil.md) |
 | **120d** | E87/F20 | 2004-2019 | **M47/N47/B47** | ⚠️ sin fuente | [ficha](bmw/serie1-120d.md) |
 | Serie 5 | E60 | 2003-2010 | varios | 🔴 | [ficha](bmw/e60-serie5.md) |
 | M5 | E60 | 2005-2010 | **S85** V10 | 🔴 | [ficha](bmw/e60-m5.md) |
