@@ -70,6 +70,12 @@ tracción delantera (Serie 1 y Serie 2 Gran Coupé — la confusión más cara).
 
 | Código | Marca | Tipo | Veredicto | Ficha |
 |---|---|---|---|---|
+| 1GR-FE | Toyota | V6 4.0 (cadena) | 🟢 | [ficha](motores/toyota-1gr-fe.md) |
+| 2UZ-FE | Toyota | V8 4.7 (**correa**) | 🟢 | [ficha](motores/toyota-2uz-fe.md) |
+| 2AZ-FE | Toyota | 2.4 | ⚠️ consume aceite | [ficha](motores/toyota-2az-fe.md) |
+| EJ25 | Subaru | bóxer 2.5 | 🟢 desde 2011 | [ficha](motores/subaru-ej25.md) |
+| Lambda | Hyundai/Kia | V6 3.3/3.5 | 🟢 | [ficha](motores/hyundai-lambda.md) |
+| **Theta / Theta II** | Hyundai/Kia | 4 cil. | 🔴 **evitar** | [ficha](motores/hyundai-theta.md) |
 | 2GR-FE | Toyota/Lexus | V6 3.5 atmosférico | 🟢 de los mejores V6 | [ficha](motores/toyota-2gr-fe.md) |
 | 2ZR-FE | Toyota | 1.8 atmosférico | 🟢 la referencia | [ficha](motores/toyota-2zr-fe.md) |
 | K20 / K24 | Honda | 2.0 / 2.4 atmosférico | 🟢 | [ficha](motores/honda-k-series.md) |
@@ -105,7 +111,10 @@ Fuente única y de tipo opinión: todo 🟡, ninguna ficha con datos duros todav
 | Jeep | Grand Cherokee 2015-2016: Hemi vs Pentastar | [notas](jeep/_notas.md) |
 | Ford | Híbridos PowerBoost/Maverick 🟡 · Mustang GT 2016 = siempre Coyote | [notas](ford/_notas.md) |
 | Hyundai / Kia | Componente de carga E-GMP: fallo sin aviso, demanda colectiva, piezas de reemplazo que repiten el fallo ⚠️ | [notas](hyundai-kia/_notas.md) |
-| **Lista segura** | Los 10 fiables con motor y ficha | [tabla](mainstream/_lista-segura.md) |
+| **Lista segura — coches** | Los 10 fiables con motor y ficha | [tabla](mainstream/_lista-segura.md) |
+| **Lista segura — SUV** | Los 10 SUV fiables | [tabla](mainstream/_lista-segura-suv.md) |
+| Subaru | Forester sin turbo 🟢, ojo a juntas de culata | [ficha](subaru/forester-2009-2013.md) |
+| Acura | MDX: premium japonés; amortiguadores magnéticos caros | [ficha](acura/mdx-2007-2013.md) |
 | Nissan | Leaf 🔴 (conector obsoleto + batería sin refrigerar, malo en calor) · Murano y las CVT | [notas](nissan/_notas.md) |
 | Alfa Romeo | Conducen muy bien; el riesgo es la marca y la red de talleres | [notas](alfa-romeo/_notas.md) |
 | Jaguar | F-Pace huérfano: Jaguar cerró la combustión en dic-2025 | [notas](jaguar/_notas.md) |
@@ -121,7 +130,7 @@ Fuente única y de tipo opinión: todo 🟡, ninguna ficha con datos duros todav
 - **BMW diésel**: ninguna fuente. El N47 y su cadena trasera son 🔵 puro.
 - **Serie 1**: no aparece en ninguna fuente; no se vendió apenas en EE. UU.,
   que es de donde viene casi todo el material.
-- **Cuatro cilindros de Hyundai** (familia Theta): patrón claro, cero cifras.
+- **Familia Theta de Hyundai**: identificada, pero **sin cifras** de fallo ni coste.
 - **Precios del mercado colombiano**: el hueco más grande que queda.
 
 ## Pendientes

@@ -22,8 +22,20 @@ Ninguno estructural en la fuente. Lo que [V8] señala es del **coche**, no del
 motor: tableros que se cuartean y se ponen pegajosos con el sol, y desgaste
 normal de suspensión en kilometrajes altos 🟡.
 
-> 🔵 Este motor tuvo consumo de aceite por juntas de la manguera de aceite en
-> algunos años tempranos. **Sin verificar**, ninguna fuente del repo lo menciona.
+## ⚠️ La línea de refrigeración de aceite — comprobar que se hizo
+
+Los primeros años de algunas aplicaciones montaban una **línea de refrigeración
+del aceite de goma** que se cocinaba con el calor y **podía reventar** [V10] 🟡.
+Hubo una **campaña de revisión amplia para sustituirla por una metálica**, y con
+eso el problema quedó resuelto.
+
+> **Al comprar cualquier coche con este motor de esos años —RX350, Highlander
+> 2008-2009— hay que confirmar que esa sustitución se hizo.** Es la única
+> comprobación específica que pide este motor.
+
+*(Nota de método: este punto estaba anotado en la ficha como sospecha 🔵 sin
+fuente. [V10] lo confirma y le da forma. Se deja constancia de que la base
+apuntó bien antes de tener con qué respaldarlo.)*
 
 ## Fuentes
-- `[V8]`
+- `[V8]`, `[V10]`

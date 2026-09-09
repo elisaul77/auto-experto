@@ -390,3 +390,45 @@ inyección directa. Detalles en la entrada de [V8].
 | "Centra" | Sentra |
 | "godinipero" | godínez (oficinista, jerga mexicana) |
 | "BQ engines del 350" | motores **VQ** (350Z, Pathfinder) |
+
+## [V10] — "10 SUV usados fiables" (**mismo canal que [V7], [V8] y [V9]**)
+
+- **URL:** https://youtu.be/BXl2tk6_4VA · **Duración:** ~16 min
+- **Ingerido:** 2026-09-09
+- **Tipo:** contraparte en SUV de [V8]. Mismo formato y misma apertura literal.
+- **Aporta:** 6 fichas de motor nuevas, 10 modelos, y **cierra el hueco de los
+  cuatro cilindros de Hyundai**, marcado como pendiente desde [V7]: son la
+  familia **Theta / Theta II**, con fallos que obligaban a sustituir el motor
+  entero.
+
+### Confirma con fuente independiente
+
+- **RAV4 V6** ✅ — [V4], de otro canal, ya lo señalaba como de lo más fiable de
+  esos años.
+
+### Confirma una sospecha que la base había anotado sin fuente
+
+La ficha del 2GR-FE llevaba marcado 🔵 un problema de línea de aceite en años
+tempranos, con la nota "ninguna fuente del repo lo menciona". [V10] lo confirma
+y lo precisa: **línea de refrigeración de aceite de goma que podía reventar**,
+sustituida por una metálica en una campaña de revisión. Ahora es una
+comprobación concreta en RX350 y Highlander 2008-2009.
+
+### Contradice a [V8] en un intervalo
+
+Limpieza de carbonilla en Skyactiv: [V8] decía 100.000 km, [V10] habla de
+200.000. **Mismo canal, dos cifras.** Se fichan las dos y se dice que discrepan.
+No se promedia.
+
+### Reconstrucción (ASR)
+
+| Transcripción | Real |
+|---|---|
+| "B6" / "B8" | **V6** / **V8** |
+| "Teta" / "Teta 2" | **Theta / Theta II** |
+| "BCM" / "BCM Muscle" | **VCM** / **VCM Muzzler** |
+| "1 GRFE" / "2uzfe" / "2AZF" | 1GR-FE / 2UZ-FE / 2AZ-FE |
+| "Honda CRB" | CR-V |
+| "Rap 4" | RAV4 |
+| "chasis de pup" | chasis de largueros (carrocería sobre bastidor) |
+| "Vitec" | VTEC |

@@ -80,13 +80,14 @@ Las transcripciones de trabajo se generan fuera del repo y están en `.gitignore
 
 ## Estado
 
-Ocho fuentes ingeridas. El sesgo a BMW **ya está roto**: hay fichas de motor de Toyota, Honda, Ford y
+Nueve fuentes ingeridas. El sesgo a BMW **ya está roto**: hay fichas de motor de Toyota, Honda, Ford y
 Mazda con el mismo nivel de detalle. Lo que falta ahora no son marcas: son
 **precios del mercado colombiano**, y está dicho así en el índice.
 
-- **18 fichas de motor**: 10 de BMW y 8 de Toyota, Honda, Ford, Mazda y la
-  transmisión CVT de Nissan
-- **16 modelos** BMW y **10 mainstream** con motor identificado y su ficha
+- **24 fichas de motor**: 10 de BMW y 14 de Toyota, Honda, Ford, Mazda, Subaru
+  e Hyundai, más la transmisión CVT de Nissan
+- **16 modelos** BMW y **20 mainstream** —coches y SUV— con su motor
+  identificado
 - Gama actual y decodificador de la nomenclatura (eje *coche nuevo*)
 - Principios transversales de compra en usado
 - **Un método de compra** en cinco pasos: la regla del 90 %, el fondo de

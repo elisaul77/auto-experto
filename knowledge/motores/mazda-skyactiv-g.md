@@ -16,8 +16,20 @@ poco común, porque la caja suele ser el punto débil en este segmento.
 
 Es de **inyección directa**, y eso trae una consecuencia concreta:
 
-> **Carbonilla en las válvulas de admisión.** Se recomienda limpieza profunda
-> **cada 100.000 km como mínimo** [V8] 🟡.
+> **Carbonilla en las válvulas de admisión.** Limpieza profunda periódica.
+
+⚠️ **Las dos fuentes del mismo canal no coinciden en el intervalo:**
+
+| Fuente | Intervalo |
+|---|---|
+| [V8] (Mazda 3) | cada **100.000 km como mínimo** 🟡 |
+| [V10] (CX-5) | revisar la admisión hacia los **200.000 km** 🟡 |
+
+[V10] aporta además el encuadre correcto: **no es una avería, es un
+mantenimiento caro a largo plazo** que hay que presupuestar 🟡.
+
+Al responder, dar el rango y decir que las fuentes discrepan — no inventar un
+número intermedio.
 
 En inyección directa el combustible no pasa por las válvulas de admisión, así
 que no las lava como hacía la inyección indirecta. Los depósitos se acumulan y
@@ -34,4 +46,4 @@ exactamente la que acaba pegada en esas válvulas. Ver
 > coherente; simplemente no está confirmado.
 
 ## Fuentes
-- `[V8]`, `[V7]`
+- `[V8]`, `[V10]`, `[V7]`
