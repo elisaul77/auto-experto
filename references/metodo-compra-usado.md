@@ -183,6 +183,22 @@ El mejor indicador barato del repo:
 Es un indicador que cuesta cero, se ve en la primera foto del anuncio y revela
 la mentalidad de quien pagaba las facturas.
 
+### ✅ La señal buena: un solo dueño, con pruebas
+
+Es el reverso del aviso de [V11] 🟡:
+
+> Si no eres el primer dueño, **no sabes qué pasó en la parte más importante de
+> la vida del coche**. Siempre es una apuesta.
+
+Por eso **"único dueño" es de los pocos argumentos de anuncio que valen algo de
+verdad** — pero solo si se puede comprobar. Cierra justo el agujero que hace
+que comprar usado sea una apuesta.
+
+**Cómo verificarlo, en vez de creerlo:** que la tarjeta de propiedad muestre un
+solo titular desde el origen, y que ese titular sea quien vende y aparezca en
+las facturas de mantenimiento. Sin eso, "único dueño" es una frase de anuncio
+como "todo original".
+
 ### 🚩 La señal de huida
 
 > Si el vendedor **se niega a que lleves el coche a revisar**, pone excusas,
