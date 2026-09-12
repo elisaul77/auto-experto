@@ -58,6 +58,10 @@ intervalos, un testigo encendido, un ruido— la ruta es otra: ve directo a
 para responder la mayoría de esas preguntas, y la respuesta casi siempre
 empieza por **el grado que dice el manual**.
 
+**Si el usuario pega un anuncio o una foto**, lee también
+`references/leer-un-anuncio.md`: separa lo que una imagen prueba de lo que solo
+sugiere, y evita afirmar de una foto lo que solo dice un VIN.
+
 **Si la intención es comprar: empieza por
 `references/metodo-compra-usado.md`.** Es el guion por defecto y va **antes**
 que cualquier ficha. Dos preguntas suyas deciden más que toda la base:
