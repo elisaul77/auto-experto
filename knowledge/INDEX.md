@@ -50,6 +50,7 @@ tracción delantera (Serie 1 y Serie 2 Gran Coupé — la confusión más cara).
 
 | Modelo | Gen. | Años | Motor | Veredicto | Ficha |
 |---|---|---|---|---|---|
+| **Serie 3 (todas)** | **E90** | 2005-2011 | ⚠️ **cuatro motores distintos** | [descodificador](bmw/e90-serie3-2005-2011.md) |
 | 328i | E90 | 2007-2011 | N52 | 🟢 | [ficha](bmw/e90-328i.md) |
 | 330i | E46 | 2001-2005 | M54 | 🟢 con kit refrig. | [ficha](bmw/e46-330i.md) |
 | 330i | F30 | 2016-2018 | B48 | 🟢 | [ficha](bmw/f30-330i.md) |

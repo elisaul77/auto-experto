@@ -1,9 +1,10 @@
-# N42 / N45 / N46 — cuatro cilindros gasolina 🔴
+# N42 / N45 / N46 / N43 — cuatro cilindros gasolina 🔴
 
 | | |
 |---|---|
 | **Años** | ~2001-2011 |
 | **Montado en** | E46 316i/318i · E87 · **E90 316i / 318i / 320i** 🔵 |
+| **N43** | El de inyección directa del **facelift europeo** 🔵 |
 | **Veredicto** | 🔴 **Evitar** |
 
 ## El veredicto de [V11], que es tajante
@@ -33,6 +34,19 @@ Importa porque **el mismo nombre "320i" designa dos motores opuestos**:
 Es el mismo patrón que el 328i (E90 bueno / F30 malo) y que el
 [120d](../bmw/serie1-120d.md). **Un 320i de 2005-2006 cae justo en la frontera
 y hay que resolverlo por VIN, no por año.**
+
+## 🔵 El N43, el que faltaba
+
+Añadido el 2026-09-12. En el **facelift europeo** el cuatro cilindros pasó al
+**N43**, de inyección directa — pariente del [N53](bmw-n53.md) y con problemas
+de la misma familia (inyectores, bobinas) 🔵.
+
+**Sin fuente en el repo.** Se ficha para que no quede el hueco, pero **no
+afirmarlo como dato**: el patrón es coherente con el N53, y nada más.
+
+Consecuencia práctica: en un Serie 3 europeo de 2008 en adelante, **ni el
+cuatro cilindros ni el seis atmosférico son buena opción**. Ver
+[descodificador del E90](../bmw/e90-serie3-2005-2011.md).
 
 ## Regla práctica
 
