@@ -142,6 +142,10 @@ Fuente única y de tipo opinión: todo 🟡, ninguna ficha con datos duros todav
   que es de donde viene casi todo el material.
 - **Familia Theta de Hyundai**: identificada, pero **sin cifras** de fallo ni coste.
 - **Precios del mercado colombiano**: el hueco más grande que queda.
+- **Renault, Chevrolet, Kia**: cero fuentes, y son parque habitual aquí. Ver
+  [notas de Renault](renault/_notas.md).
+- **Preparación y modificaciones**: ninguna fuente. Ver
+  [modificaciones](../references/modificaciones.md), que es casi todo 🔵.
 
 ## Pendientes
 

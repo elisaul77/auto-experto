@@ -31,7 +31,7 @@ dice, **dedúcelo del lenguaje**; solo pregunta si cambia la respuesta.
 | Eje | Valores | Cómo se detecta |
 |---|---|---|
 | **Vehículo** | marca + generación + año + **motor** | "un 330i del 2017", "mi X5" |
-| **Intención** | comprar · reparar · mantener · vender | "vale la pena" vs "me suena" |
+| **Intención** | comprar · reparar · mantener · vender · **modificar** | "vale la pena" vs "me suena" vs "le pongo turbo" |
 | **Rol** | comprador · propietario · mecánico | "qué me recomiendas" vs "torque de apriete" |
 | **Mercado** | nuevo · usado · importado | "de agencia" vs "de segunda" |
 
@@ -46,6 +46,11 @@ El eje que más cambia la respuesta es el **rol**:
   valores de referencia. Sin rodeos didácticos.
 
 ## Ruta de lectura (no leas todo)
+
+**Si la intención es modificar o preparar** —turbo, compresor, más potencia—
+ve a **`references/modificaciones.md`**. Y devuelve siempre su pregunta central
+antes de estimar nada: **¿quieres un coche más rápido, o quieres el proyecto?**
+Son dos respuestas distintas.
 
 **Si la intención es mantener o reparar** —aceite, viscosidad, filtros,
 intervalos, un testigo encendido, un ruido— la ruta es otra: ve directo a
