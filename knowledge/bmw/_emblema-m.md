@@ -22,6 +22,27 @@ lleva la denominación normal del modelo.
 No es prueba definitiva —hay quien quita los emblemas originales— pero **invierte
 la carga de la prueba**: hay que demostrar que es un M, no darlo por supuesto.
 
+## Los disfraces más comunes 🔵
+
+Vistos en anuncios reales. **Ninguno toca la mecánica:**
+
+- **Franjas tricolor M en la parrilla.** Accesorio adhesivo o de clip. De los
+  más baratos y más vistos.
+- **Emblema M o M3 en el portón** sin nada más que lo acompañe.
+- **Volante, pomo o alfombrillas** con el logotipo.
+- **Tomas o venteos en el capó.** Esta sí es modificación de verdad: **implica
+  cortar la chapa** y no tiene vuelta atrás.
+
+### ⚠️ Venteos en el capó: preguntar por qué
+
+Estéticamente se hacen por imitar a un M. Pero **también se hacen para bajar
+temperaturas**, y en un BMW de esta era eso encaja con el problema conocido de
+refrigeración por las piezas de plástico ([V11] 🟡).
+
+No es acusación, es una hipótesis que hay que descartar: **¿se hicieron por
+gusto, o porque el coche calentaba?** Si fue lo segundo, el venteo trata el
+síntoma y el problema sigue debajo.
+
 ## Cómo verificar un M3 E90 en treinta segundos 🔵
 
 Es el único sedán Serie 3 de su generación con **V8**. Señales visibles sin

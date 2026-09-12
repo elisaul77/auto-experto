@@ -30,6 +30,25 @@ Donde vive el usuario esto pesa de verdad:
 - El A/C deja de ser confort y pasa a ser componente crítico: valorarlo en la
   compra como se valora el motor.
 
+## ⚠️ "Modelo 2009" no significa "fabricado en 2009" 🔵
+
+En Colombia el **modelo** es el año asignado en la matrícula, y es habitual que
+un vehículo producido en un año se registre como modelo del siguiente. En un
+importado la diferencia puede ser mayor.
+
+**Por qué importa tanto aquí:** las fronteras de motor de este repo van por
+**producción**, no por matrícula. Un "modelo 2009" puede ser perfectamente un
+coche fabricado antes del restyling — y en el
+[E90](../knowledge/bmw/e90-serie3-2005-2011.md) eso es la diferencia entre el
+[N52](../knowledge/motores/bmw-n52.md) 🟢 y el
+[N53](../knowledge/motores/bmw-n53.md) 🔴.
+
+> **Regla:** en Colombia, el año de la tarjeta **nunca cierra** la pregunta del
+> motor. Solo el **VIN** lo hace. Decirlo siempre.
+
+Y funciona en los dos sentidos: a veces el modelo declarado juega **a favor**
+del comprador, no en contra.
+
 ## Formato obligatorio de precio
 
 `22.000-28.000 USD (EE. UU., 2026) [V1]` — y si se convierte a COP, decir la
