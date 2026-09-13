@@ -16,6 +16,25 @@ Dos razones, las dos serias:
 Lo que se guarda es la **ficha estructurada** + la **referencia a la fuente**.
 La transcripción de trabajo vive fuera del repo y se descarta.
 
+## Paso 0: comprobar que no esté ya ingerida
+
+**Antes de extraer nada**, buscar la URL o el id del vídeo en
+`fuentes/registro.md`:
+
+```bash
+grep -n "<id del vídeo>" fuentes/registro.md
+```
+
+Si aparece, **no reingerir**. Reingerir la misma fuente con otro identificador
+la convertiría en dos, y dos entradas del mismo material **se confirmarían
+entre sí** — exactamente el error que el sistema de procedencia existe para
+evitar. Es la versión extrema del problema de [V7]/[V8]/[V9], donde tres
+vídeos del mismo canal no confirman nada entre sí.
+
+En su lugar, **responder con lo que esa fuente ya aportó** y cómo ha
+envejecido frente a las que llegaron después. Un `grep -rl "\[Vn\]"` sobre
+`knowledge/` y `references/` muestra su huella real.
+
 ## Procedimiento
 
 1. **Extraer.** `scripts/ingest-youtube.sh <url> [dir-salida]`. Deja la

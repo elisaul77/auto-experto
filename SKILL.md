@@ -107,6 +107,8 @@ Luego:
 
 Cuando el usuario pase un vídeo, artículo o dato:
 
+0. **Comprobar que no esté ya ingerida**: `grep <id> fuentes/registro.md`.
+   Si ya está, no reingerir — responder con lo que aportó y cómo ha envejecido.
 1. Extraer el contenido (`scripts/ingest-youtube.sh` para YouTube).
 2. **Destilar a hechos, nunca guardar la transcripción literal en el repo.**
    Las transcripciones son ruidosas y de terceros; los hechos no.
