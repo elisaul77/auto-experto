@@ -2,6 +2,13 @@
 
 Leer este archivo **antes** que cualquier ficha. Entrar siempre por el motor.
 
+## Si el coche tiene más de ~25 años
+
+Leer [comprar un clásico](../references/comprar-un-clasico.md) **antes** que
+nada: varios principios del repo se invierten. La depreciación ya ocurrió, el
+modelo importa mucho menos que el ejemplar, y lo que decide es el historial y
+la disponibilidad de repuestos, no el motor.
+
 ## Si la pregunta es de compra
 
 Empezar por [el método](../references/metodo-compra-usado.md), no por las
@@ -96,6 +103,7 @@ tracción delantera (Serie 1 y Serie 2 Gran Coupé — la confusión más cara).
 
 | Código | Tipo | Veredicto | Ficha |
 |---|---|---|---|
+| **M50 / M50TU** | 6L atmosférico (E36) | 🟢 era dorada | [ficha](motores/bmw-m50.md) |
 | M54 | 6L atmosférico | 🟢 (refrigeración) | [ficha](motores/bmw-m54.md) |
 | N52 | 6L atmosférico | 🟢 | [ficha](motores/bmw-n52.md) |
 | N54 | 6L biturbo | 🔴 ✅ | [ficha](motores/bmw-n54.md) |
