@@ -496,3 +496,50 @@ son los del N55, no los del N54.
 | "M130i" / "M230i" | M135i / M235i |
 | "G24 230i" | G42 230i 🔵 |
 | "hadchback" | hatchback |
+
+## [V12] — BMW contra Audi, historia y filosofía (**mismo canal que [V11]**)
+
+- **URL:** https://www.youtube.com/watch?v=jsN3DsPBna0 · **Duración:** ~14 min
+- **Ingerido:** 2026-09-12
+- **Identificación:** mismo presentador que [V11] — cita su propio Serie 3 de
+  2001. **No es fuente independiente de [V11].**
+
+### ⚠️ Rendimiento bajo, y conviene decirlo
+
+**Es la fuente que menos aporta de las doce.** Está bien hecha y es
+interesante, pero trata de **identidad de marca e historia**, no de qué se
+rompe ni de qué comprar. No aporta un solo fallo, coste ni kilometraje.
+
+> **Lección de método:** una fuente buena no es automáticamente una fuente
+> útil. El criterio para fichar no es la calidad del vídeo, sino **si responde
+> a las preguntas que esta base existe para responder**. Ingerir por inercia
+> infla el repo y diluye la señal.
+
+### Lo que sí se fichó
+
+- `references/arquitectura-y-tacto.md` — **por qué** un Audi subvira y un BMW
+  pivota: dónde va el motor respecto al eje delantero, y qué persigue cada
+  marca con ello. Cubre un hueco real: el repo sabía qué se rompe, no **cómo
+  se comporta**.
+- **Abre la marca Audi** en `knowledge/audi/`, aunque **sin datos de
+  fiabilidad**. La ficha existe para que el hueco sea visible.
+- Dato concreto: el **RS4 de 2006** fue el primer quattro con reparto sesgado
+  al eje trasero (40/60) 🟡.
+
+### Un aviso que sí cambia respuestas
+
+Las dos marcas **se han cruzado**: BMW metió turbos, automáticas y tracción
+total en casi todo; Audi sacó su primer modelo de propulsión trasera en 2018.
+Los tópicos de marca envejecieron mal, y hay que responder por modelo y año,
+no por escudo.
+
+### Reconstrucción (ASR)
+
+| Transcripción | Real |
+|---|---|
+| "Noya closet" / "Noya Classa" | **Neue Klasse** |
+| "Fosbong / Foschbunk Technic" | **Vorsprung durch Technik** |
+| "Yug Benzinga" | Jörg Bensinger 🔵 |
+| "Michelle Muton" | Michèle Mouton |
+| "torsen" | Torsen (diferencial autoblocante) |
+| "R8 RWS" | correcto |

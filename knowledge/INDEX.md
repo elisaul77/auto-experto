@@ -133,6 +133,7 @@ Fuente única y de tipo opinión: todo 🟡, ninguna ficha con datos duros todav
 | RAM | 1500 Classic: depreciación de flota **sin** problema mecánico 🟢 | [notas](ram/_notas.md) |
 | — | [Lista segura mainstream](mainstream/_lista-segura.md): Corolla, Camry, Prius, Civic, Accord, Elantra | |
 | Dodge / RAM | Durango 2017+: electrónica, colector V8, MDS · PCV del Pentastar | [notas](dodge/_notas.md) |
+| Audi | ⚠️ **marca abierta sin datos de fiabilidad** | [notas](audi/_notas.md) |
 | Marcas chinas | Depreciación brutal por desconfianza, no por defecto probado | [notas](chinos/_notas.md) |
 | — | [Depreciación: lista EE. UU. 2026](depreciacion/lista-2026-eeuu.md) | |
 
@@ -144,6 +145,8 @@ Fuente única y de tipo opinión: todo 🟡, ninguna ficha con datos duros todav
   que es de donde viene casi todo el material.
 - **Familia Theta de Hyundai**: identificada, pero **sin cifras** de fallo ni coste.
 - **Precios del mercado colombiano**: el hueco más grande que queda.
+- **Audi**: marca abierta, **cero datos de averías o costes**. Es premium
+  alemán usado, la categoría donde más caro sale equivocarse.
 - **Renault, Chevrolet, Kia**: cero fuentes, y son parque habitual aquí. Ver
   [notas de Renault](renault/_notas.md).
 - **Preparación y modificaciones**: ninguna fuente. Ver
