@@ -207,6 +207,27 @@ como "todo original".
 
 ---
 
+## Permuta: dos compras a la vez, no un descuento 🔵
+
+Habitual en Colombia y ausente del resto de fuentes, que son de EE. UU.
+
+Una permuta **no es una forma de pagar menos**: es **vender un coche y comprar
+otro en la misma operación**, y hay que juzgar las dos mitades por separado.
+
+1. **¿Qué entrego?** Si lo que se entrega es más nuevo, más fiable y más
+   barato de mantener, la permuta **empeora la situación aunque no salga dinero
+   del bolsillo**. No sale dinero hoy; sale cada mes a partir de mañana.
+2. **¿A qué precio me lo valoran?** Quien propone la permuta fija los dos
+   precios a la vez, y ahí es donde se pierde sin verlo. Pedir **precio de
+   venta en efectivo** del coche que se compra, y por separado **cuánto vale el
+   mío** en el mercado. Si los dos números no cuadran con lo ofrecido, la
+   diferencia es el coste real de la operación.
+
+> ⚠️ **Caso peligroso:** permutar un coche moderno y fiable por un premium
+> viejo. Es la [trampa del premium barato](#error-2--la-trampa-del-premium-barato)
+> en su forma más completa — se entrega justo lo que no falla a cambio de algo
+> cuyos repuestos siguen costando lo que costaban cuando era caro.
+
 ## La lista de comprobación
 
 1. **Define el uso real.** Regla del 90 %.

@@ -103,6 +103,7 @@ tracción delantera (Serie 1 y Serie 2 Gran Coupé — la confusión más cara).
 
 | Código | Tipo | Veredicto | Ficha |
 |---|---|---|---|
+| **M43** | 4 cil. SOHC (E36/E46 318i) | 🟡 ⚠️ **no es un N4x** | [ficha](motores/bmw-m43.md) |
 | **M50 / M50TU** | 6L atmosférico (E36) | 🟢 era dorada | [ficha](motores/bmw-m50.md) |
 | M54 | 6L atmosférico | 🟢 (refrigeración) | [ficha](motores/bmw-m54.md) |
 | N52 | 6L atmosférico | 🟢 | [ficha](motores/bmw-n52.md) |
